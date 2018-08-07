@@ -1,0 +1,1062 @@
+68  ,  500  ,13
+1,       1,  406,       1-lingfeng_1-46-极1直流线-5,                                              i侧电流,  5,                       Subnet5,Output01.txt,     5
+1,       2,  406,       1-lingfeng_1-46-极1直流线-6,                                              i侧电流,  5,                       Subnet5,Output01.txt,     3
+1,       3,  406,      1-lingfeng_1-46-极1直流线-15,                                              i侧电流,  5,                       Subnet5,Output01.txt,     6
+1,       4,  406,      1-lingfeng_1-46-极1直流线-16,                                              i侧电流,  5,                       Subnet5,Output01.txt,     4
+1,       5,  501,                  XN-GEN川安谷#01,                                             有功功率P, 26,                      Subnet26,Output01.txt,     1
+1,       6,  501,                  XN-GEN川安谷#01,                                             无功功率Q, 26,                      Subnet26,Output01.txt,     2
+1,       7,  501,                  XN-GEN川巴郎口#1,                                             有功功率P, 18,                      Subnet18,Output01.txt,     1
+1,       8,  501,                  XN-GEN川巴郎口#1,                                             无功功率Q, 18,                      Subnet18,Output01.txt,     2
+1,       9,  501,                  XN-GEN川巴郎口#2,                                             有功功率P, 18,                      Subnet18,Output01.txt,     3
+1,      10,  501,                  XN-GEN川巴郎口#2,                                             无功功率Q, 18,                      Subnet18,Output01.txt,     4
+1,      11,  501,                  XN-GEN川白水河#1,                                             有功功率P, 27,                      Subnet27,Output01.txt,     1
+1,      12,  501,                  XN-GEN川白水河#1,                                             无功功率Q, 27,                      Subnet27,Output01.txt,     2
+1,      13,  501,                  XN-GEN川白水河#2,                                             有功功率P, 27,                      Subnet27,Output01.txt,     3
+1,      14,  501,                  XN-GEN川白水河#2,                                             无功功率Q, 27,                      Subnet27,Output01.txt,     4
+1,      15,  501,                  XN-GEN川百花滩#1,                                             有功功率P, 12,                      Subnet12,Output01.txt,     1
+1,      16,  501,                  XN-GEN川百花滩#1,                                             无功功率Q, 12,                      Subnet12,Output01.txt,     2
+1,      17,  501,                  XN-GEN川百花滩#2,                                             有功功率P, 12,                      Subnet12,Output01.txt,     3
+1,      18,  501,                  XN-GEN川百花滩#2,                                             无功功率Q, 12,                      Subnet12,Output01.txt,     4
+1,      19,  501,                  XN-GEN川百花滩#3,                                             有功功率P, 12,                      Subnet12,Output01.txt,     5
+1,      20,  501,                  XN-GEN川百花滩#3,                                             无功功率Q, 12,                      Subnet12,Output01.txt,     6
+1,      21,  501,                   XN-GEN川宝州#1,                                             有功功率P, 40,                      Subnet40,Output01.txt,     1
+1,      22,  501,                   XN-GEN川宝州#1,                                             无功功率Q, 40,                      Subnet40,Output01.txt,     2
+1,      23,  501,                   XN-GEN川宝州#2,                                             有功功率P, 40,                      Subnet40,Output01.txt,     3
+1,      24,  501,                   XN-GEN川宝州#2,                                             无功功率Q, 40,                      Subnet40,Output01.txt,     4
+1,      25,  501,                  XN-GEN川滨东#01,                                             有功功率P, 39,                      Subnet39,Output01.txt,     1
+1,      26,  501,                  XN-GEN川滨东#01,                                             无功功率Q, 39,                      Subnet39,Output01.txt,     2
+1,      27,  501,                  XN-GEN川滨东#02,                                             有功功率P, 39,                      Subnet39,Output01.txt,     3
+1,      28,  501,                  XN-GEN川滨东#02,                                             无功功率Q, 39,                      Subnet39,Output01.txt,     4
+1,      29,  501,                  XN-GEN川布西#01,                                             有功功率P,  3,                       Subnet3,Output01.txt,     1
+1,      30,  501,                  XN-GEN川布西#01,                                             无功功率Q,  3,                       Subnet3,Output01.txt,     2
+1,      31,  501,                  XN-GEN川布西#02,                                             有功功率P,  3,                       Subnet3,Output01.txt,     3
+1,      32,  501,                  XN-GEN川布西#02,                                             无功功率Q,  3,                       Subnet3,Output01.txt,     4
+1,      33,  501,                  XN-GEN川茶布朗#1,                                             有功功率P, 33,                      Subnet33,Output01.txt,     1
+1,      34,  501,                  XN-GEN川茶布朗#1,                                             无功功率Q, 33,                      Subnet33,Output01.txt,     2
+1,      35,  501,                  XN-GEN川长柏#01,                                             有功功率P, 38,                      Subnet38,Output04.txt,     7
+1,      36,  501,                  XN-GEN川长柏#01,                                             无功功率Q, 38,                      Subnet38,Output04.txt,     8
+1,      37,  501,                  XN-GEN川长河坝#2,                                             有功功率P,  2,                       Subnet2,Output02.txt,     9
+1,      38,  501,                  XN-GEN川长河坝#2,                                             无功功率Q,  2,                       Subnet2,Output02.txt,    10
+1,      39,  501,                XN-GEN川大德风电#01,                                             有功功率P,  2,                       Subnet2,Output01.txt,     1
+1,      40,  501,                XN-GEN川大德风电#01,                                             无功功率Q,  2,                       Subnet2,Output01.txt,     2
+1,      41,  501,                XN-GEN川大德风电#02,                                             有功功率P,  2,                       Subnet2,Output01.txt,     3
+1,      42,  501,                XN-GEN川大德风电#02,                                             无功功率Q,  2,                       Subnet2,Output01.txt,     4
+1,      43,  501,                 XN-GEN川大岗山#01,                                             有功功率P,  8,                       Subnet8,Output01.txt,     1
+1,      44,  501,                 XN-GEN川大岗山#01,                                             无功功率Q,  8,                       Subnet8,Output01.txt,     2
+1,      45,  501,                  XN-GEN川大金坪#1,                                             有功功率P,  4,                       Subnet4,Output01.txt,     1
+1,      46,  501,                  XN-GEN川大金坪#1,                                             无功功率Q,  4,                       Subnet4,Output01.txt,     2
+1,      47,  501,                  XN-GEN川大金坪#2,                                             有功功率P,  4,                       Subnet4,Output01.txt,     3
+1,      48,  501,                  XN-GEN川大金坪#2,                                             无功功率Q,  4,                       Subnet4,Output01.txt,     4
+1,      49,  501,                  XN-GEN川大金坪#3,                                             有功功率P,  4,                       Subnet4,Output01.txt,     5
+1,      50,  501,                  XN-GEN川大金坪#3,                                             无功功率Q,  4,                       Subnet4,Output01.txt,     6
+1,      51,  501,                   XN-GEN川大桥#1,                                             有功功率P, 19,                      Subnet19,Output01.txt,     1
+1,      52,  501,                   XN-GEN川大桥#1,                                             无功功率Q, 19,                      Subnet19,Output01.txt,     2
+1,      53,  501,                   XN-GEN川大桥#2,                                             有功功率P, 19,                      Subnet19,Output01.txt,     3
+1,      54,  501,                   XN-GEN川大桥#2,                                             无功功率Q, 19,                      Subnet19,Output01.txt,     4
+1,      55,  501,                   XN-GEN川大桥#3,                                             有功功率P, 19,                      Subnet19,Output01.txt,     5
+1,      56,  501,                   XN-GEN川大桥#3,                                             无功功率Q, 19,                      Subnet19,Output01.txt,     6
+1,      57,  501,                   XN-GEN川大桥#4,                                             有功功率P, 19,                      Subnet19,Output01.txt,     7
+1,      58,  501,                   XN-GEN川大桥#4,                                             无功功率Q, 19,                      Subnet19,Output01.txt,     8
+1,      59,  501,                XN-GEN川德昌风电#04,                                             有功功率P, 38,                      Subnet38,Output01.txt,     1
+1,      60,  501,                XN-GEN川德昌风电#04,                                             无功功率Q, 38,                      Subnet38,Output01.txt,     2
+1,      61,  501,                   XN-GEN川地洛#1,                                             有功功率P,  3,                       Subnet3,Output01.txt,     5
+1,      62,  501,                   XN-GEN川地洛#1,                                             无功功率Q,  3,                       Subnet3,Output01.txt,     6
+1,      63,  501,                   XN-GEN川地洛#2,                                             有功功率P,  3,                       Subnet3,Output01.txt,     7
+1,      64,  501,                   XN-GEN川地洛#2,                                             无功功率Q,  3,                       Subnet3,Output01.txt,     8
+1,      65,  501,                   XN-GEN川东风#1,                                             有功功率P,  6,                       Subnet6,Output01.txt,     1
+1,      66,  501,                   XN-GEN川东风#1,                                             无功功率Q,  6,                       Subnet6,Output01.txt,     2
+1,      67,  501,                   XN-GEN川东风#2,                                             有功功率P,  6,                       Subnet6,Output01.txt,     3
+1,      68,  501,                   XN-GEN川东风#2,                                             无功功率Q,  6,                       Subnet6,Output01.txt,     4
+1,      69,  501,                   XN-GEN川东谷#1,                                             有功功率P, 31,                      Subnet31,Output01.txt,     1
+1,      70,  501,                   XN-GEN川东谷#1,                                             无功功率Q, 31,                      Subnet31,Output01.txt,     2
+1,      71,  501,                  XN-GEN川东岳#31,                                             有功功率P, 17,                      Subnet17,Output01.txt,     1
+1,      72,  501,                  XN-GEN川东岳#31,                                             无功功率Q, 17,                      Subnet17,Output01.txt,     2
+1,      73,  501,                  XN-GEN川多诺#01,                                             有功功率P,  3,                       Subnet3,Output01.txt,     9
+1,      74,  501,                  XN-GEN川多诺#01,                                             无功功率Q,  3,                       Subnet3,Output01.txt,    10
+1,      75,  501,                  XN-GEN川多诺#02,                                             有功功率P,  3,                       Subnet3,Output02.txt,     1
+1,      76,  501,                  XN-GEN川多诺#02,                                             无功功率Q,  3,                       Subnet3,Output02.txt,     2
+1,      77,  501,                  XN-GEN川俄公堡#1,                                             有功功率P, 40,                      Subnet40,Output01.txt,     5
+1,      78,  501,                  XN-GEN川俄公堡#1,                                             无功功率Q, 40,                      Subnet40,Output01.txt,     6
+1,      79,  501,                  XN-GEN川二道桥#1,                                             有功功率P, 12,                      Subnet12,Output01.txt,     7
+1,      80,  501,                  XN-GEN川二道桥#1,                                             无功功率Q, 12,                      Subnet12,Output01.txt,     8
+1,      81,  501,                  XN-GEN川二道桥#2,                                             有功功率P, 12,                      Subnet12,Output01.txt,     9
+1,      82,  501,                  XN-GEN川二道桥#2,                                             无功功率Q, 12,                      Subnet12,Output01.txt,    10
+1,      83,  501,                  XN-GEN川二滩#01,                                             有功功率P, 12,                      Subnet12,Output02.txt,     1
+1,      84,  501,                  XN-GEN川二滩#01,                                             无功功率Q, 12,                      Subnet12,Output02.txt,     2
+1,      85,  501,                  XN-GEN川二滩#02,                                             有功功率P, 12,                      Subnet12,Output02.txt,     3
+1,      86,  501,                  XN-GEN川二滩#02,                                             无功功率Q, 12,                      Subnet12,Output02.txt,     4
+1,      87,  501,                  XN-GEN川二滩#03,                                             有功功率P, 12,                      Subnet12,Output02.txt,     5
+1,      88,  501,                  XN-GEN川二滩#03,                                             无功功率Q, 12,                      Subnet12,Output02.txt,     6
+1,      89,  501,                  XN-GEN川二滩#04,                                             有功功率P, 12,                      Subnet12,Output02.txt,     7
+1,      90,  501,                  XN-GEN川二滩#04,                                             无功功率Q, 12,                      Subnet12,Output02.txt,     8
+1,      91,  501,                  XN-GEN川方山#61,                                             有功功率P, 24,                      Subnet24,Output01.txt,     1
+1,      92,  501,                  XN-GEN川方山#61,                                             无功功率Q, 24,                      Subnet24,Output01.txt,     2
+1,      93,  501,                  XN-GEN川飞仙关#1,                                             有功功率P, 38,                      Subnet38,Output01.txt,     3
+1,      94,  501,                  XN-GEN川飞仙关#1,                                             无功功率Q, 38,                      Subnet38,Output01.txt,     4
+1,      95,  501,                  XN-GEN川飞仙关#2,                                             有功功率P, 38,                      Subnet38,Output01.txt,     5
+1,      96,  501,                  XN-GEN川飞仙关#2,                                             无功功率Q, 38,                      Subnet38,Output01.txt,     6
+1,      97,  501,                 XN-GEN川丰岩堡#01,                                             有功功率P, 32,                      Subnet32,Output01.txt,     1
+1,      98,  501,                 XN-GEN川丰岩堡#01,                                             无功功率Q, 32,                      Subnet32,Output01.txt,     2
+1,      99,  501,                 XN-GEN川丰岩堡#02,                                             有功功率P, 32,                      Subnet32,Output01.txt,     3
+1,     100,  501,                 XN-GEN川丰岩堡#02,                                             无功功率Q, 32,                      Subnet32,Output01.txt,     4
+1,     101,  501,                  XN-GEN川凤仪#01,                                             有功功率P, 16,                      Subnet16,Output01.txt,     1
+1,     102,  501,                  XN-GEN川凤仪#01,                                             无功功率Q, 16,                      Subnet16,Output01.txt,     2
+1,     103,  501,                  XN-GEN川凤仪#02,                                             有功功率P, 16,                      Subnet16,Output01.txt,     3
+1,     104,  501,                  XN-GEN川凤仪#02,                                             无功功率Q, 16,                      Subnet16,Output01.txt,     4
+1,     105,  501,                  XN-GEN川凤仪#03,                                             有功功率P, 16,                      Subnet16,Output01.txt,     5
+1,     106,  501,                  XN-GEN川凤仪#03,                                             无功功率Q, 16,                      Subnet16,Output01.txt,     6
+1,     107,  501,                 XN-GEN川福堂坝#01,                                             有功功率P, 33,                      Subnet33,Output01.txt,     7
+1,     108,  501,                 XN-GEN川福堂坝#01,                                             无功功率Q, 33,                      Subnet33,Output01.txt,     8
+1,     109,  501,                 XN-GEN川福堂坝#02,                                             有功功率P, 33,                      Subnet33,Output01.txt,     9
+1,     110,  501,                 XN-GEN川福堂坝#02,                                             无功功率Q, 33,                      Subnet33,Output01.txt,    10
+1,     111,  501,                 XN-GEN川福堂坝#03,                                             有功功率P, 33,                      Subnet33,Output02.txt,     1
+1,     112,  501,                 XN-GEN川福堂坝#03,                                             无功功率Q, 33,                      Subnet33,Output02.txt,     2
+1,     113,  501,                  XN-GEN川干坝子#1,                                             有功功率P, 10,                      Subnet10,Output01.txt,     1
+1,     114,  501,                  XN-GEN川干坝子#1,                                             无功功率Q, 10,                      Subnet10,Output01.txt,     2
+1,     115,  501,                   XN-GEN川耿达#1,                                             有功功率P, 22,                      Subnet22,Output01.txt,     1
+1,     116,  501,                   XN-GEN川耿达#1,                                             无功功率Q, 22,                      Subnet22,Output01.txt,     2
+1,     117,  501,                   XN-GEN川耿达#2,                                             有功功率P, 22,                      Subnet22,Output01.txt,     3
+1,     118,  501,                   XN-GEN川耿达#2,                                             无功功率Q, 22,                      Subnet22,Output01.txt,     4
+1,     119,  501,                   XN-GEN川耿达#3,                                             有功功率P, 22,                      Subnet22,Output01.txt,     5
+1,     120,  501,                   XN-GEN川耿达#3,                                             无功功率Q, 22,                      Subnet22,Output01.txt,     6
+1,     121,  501,                   XN-GEN川龚嘴上1,                                             有功功率P, 13,                      Subnet13,Output01.txt,     1
+1,     122,  501,                   XN-GEN川龚嘴上1,                                             无功功率Q, 13,                      Subnet13,Output01.txt,     2
+1,     123,  501,                   XN-GEN川龚嘴上2,                                             有功功率P, 13,                      Subnet13,Output01.txt,     3
+1,     124,  501,                   XN-GEN川龚嘴上2,                                             无功功率Q, 13,                      Subnet13,Output01.txt,     4
+1,     125,  501,                   XN-GEN川龚嘴上3,                                             有功功率P, 13,                      Subnet13,Output01.txt,     5
+1,     126,  501,                   XN-GEN川龚嘴上3,                                             无功功率Q, 13,                      Subnet13,Output01.txt,     6
+1,     127,  501,                   XN-GEN川龚嘴上4,                                             有功功率P, 13,                      Subnet13,Output01.txt,     7
+1,     128,  501,                   XN-GEN川龚嘴上4,                                             无功功率Q, 13,                      Subnet13,Output01.txt,     8
+1,     129,  501,                  XN-GEN川古学#01,                                             有功功率P, 21,                      Subnet21,Output01.txt,     1
+1,     130,  501,                  XN-GEN川古学#01,                                             无功功率Q, 21,                      Subnet21,Output01.txt,     2
+1,     131,  501,                  XN-GEN川古学#02,                                             有功功率P, 21,                      Subnet21,Output01.txt,     3
+1,     132,  501,                  XN-GEN川古学#02,                                             无功功率Q, 21,                      Subnet21,Output01.txt,     4
+1,     133,  501,                   XN-GEN川关州#1,                                             有功功率P, 31,                      Subnet31,Output01.txt,     3
+1,     134,  501,                   XN-GEN川关州#1,                                             无功功率Q, 31,                      Subnet31,Output01.txt,     4
+1,     135,  501,                   XN-GEN川关州#2,                                             有功功率P, 31,                      Subnet31,Output01.txt,     5
+1,     136,  501,                   XN-GEN川关州#2,                                             无功功率Q, 31,                      Subnet31,Output01.txt,     6
+1,     137,  501,                  XN-GEN川官地#01,                                             有功功率P, 36,                      Subnet36,Output01.txt,     1
+1,     138,  501,                  XN-GEN川官地#01,                                             无功功率Q, 36,                      Subnet36,Output01.txt,     2
+1,     139,  501,                  XN-GEN川官地#03,                                             有功功率P, 36,                      Subnet36,Output01.txt,     3
+1,     140,  501,                  XN-GEN川官地#03,                                             无功功率Q, 36,                      Subnet36,Output01.txt,     4
+1,     141,  501,                  XN-GEN川官地#04,                                             有功功率P, 36,                      Subnet36,Output01.txt,     5
+1,     142,  501,                  XN-GEN川官地#04,                                             无功功率Q, 36,                      Subnet36,Output01.txt,     6
+1,     143,  501,               XN-GEN川广安III#61,                                             有功功率P, 39,                      Subnet39,Output01.txt,     5
+1,     144,  501,               XN-GEN川广安III#61,                                             无功功率Q, 39,                      Subnet39,Output01.txt,     6
+1,     145,  501,                   XN-GEN川国如#1,                                             有功功率P, 31,                      Subnet31,Output01.txt,     7
+1,     146,  501,                   XN-GEN川国如#1,                                             无功功率Q, 31,                      Subnet31,Output01.txt,     8
+1,     147,  501,                 XN-GEN川汗牛河#01,                                             有功功率P, 29,                      Subnet29,Output01.txt,     1
+1,     148,  501,                 XN-GEN川汗牛河#01,                                             无功功率Q, 29,                      Subnet29,Output01.txt,     2
+1,     149,  501,                 XN-GEN川汗牛河#02,                                             有功功率P, 29,                      Subnet29,Output01.txt,     3
+1,     150,  501,                 XN-GEN川汗牛河#02,                                             无功功率Q, 29,                      Subnet29,Output01.txt,     4
+1,     151,  501,                  XN-GEN川汉阳#01,                                             有功功率P,  4,                       Subnet4,Output01.txt,     7
+1,     152,  501,                  XN-GEN川汉阳#01,                                             无功功率Q,  4,                       Subnet4,Output01.txt,     8
+1,     153,  501,                  XN-GEN川汉阳#02,                                             有功功率P,  4,                       Subnet4,Output01.txt,     9
+1,     154,  501,                  XN-GEN川汉阳#02,                                             无功功率Q,  4,                       Subnet4,Output01.txt,    10
+1,     155,  501,                  XN-GEN川汉阳#03,                                             有功功率P,  4,                       Subnet4,Output02.txt,     1
+1,     156,  501,                  XN-GEN川汉阳#03,                                             无功功率Q,  4,                       Subnet4,Output02.txt,     2
+1,     157,  501,                  XN-GEN川黑河塘81,                                             有功功率P,  9,                       Subnet9,Output01.txt,     1
+1,     158,  501,                  XN-GEN川黑河塘81,                                             无功功率Q,  9,                       Subnet9,Output01.txt,     2
+1,     159,  501,                  XN-GEN川黑河塘82,                                             有功功率P,  9,                       Subnet9,Output01.txt,     3
+1,     160,  501,                  XN-GEN川黑河塘82,                                             无功功率Q,  9,                       Subnet9,Output01.txt,     4
+1,     161,  501,                   XN-GEN川洪一#1,                                             有功功率P,  4,                       Subnet4,Output02.txt,     3
+1,     162,  501,                   XN-GEN川洪一#1,                                             无功功率Q,  4,                       Subnet4,Output02.txt,     4
+1,     163,  501,                   XN-GEN川洪一#2,                                             有功功率P,  4,                       Subnet4,Output02.txt,     5
+1,     164,  501,                   XN-GEN川洪一#2,                                             无功功率Q,  4,                       Subnet4,Output02.txt,     6
+1,     165,  501,                 XN-GEN川红房子#01,                                             有功功率P, 29,                      Subnet29,Output01.txt,     5
+1,     166,  501,                 XN-GEN川红房子#01,                                             无功功率Q, 29,                      Subnet29,Output01.txt,     6
+1,     167,  501,                 XN-GEN川红房子#02,                                             有功功率P, 29,                      Subnet29,Output01.txt,     7
+1,     168,  501,                 XN-GEN川红房子#02,                                             无功功率Q, 29,                      Subnet29,Output01.txt,     8
+1,     169,  501,                XN-GEN川红和风电#01,                                             有功功率P, 37,                      Subnet37,Output01.txt,     1
+1,     170,  501,                XN-GEN川红和风电#01,                                             无功功率Q, 37,                      Subnet37,Output01.txt,     2
+1,     171,  501,                  XN-GEN川猴子岩#1,                                             有功功率P, 21,                      Subnet21,Output01.txt,     5
+1,     172,  501,                  XN-GEN川猴子岩#1,                                             无功功率Q, 21,                      Subnet21,Output01.txt,     6
+1,     173,  501,                  XN-GEN川葫芦坝#1,                                             有功功率P, 13,                      Subnet13,Output01.txt,     9
+1,     174,  501,                  XN-GEN川葫芦坝#1,                                             无功功率Q, 13,                      Subnet13,Output01.txt,    10
+1,     175,  501,                  XN-GEN川葫芦坝#2,                                             有功功率P, 13,                      Subnet13,Output02.txt,     1
+1,     176,  501,                  XN-GEN川葫芦坝#2,                                             无功功率Q, 13,                      Subnet13,Output02.txt,     2
+1,     177,  501,                  XN-GEN川华山沟#1,                                             有功功率P, 18,                      Subnet18,Output01.txt,     5
+1,     178,  501,                  XN-GEN川华山沟#1,                                             无功功率Q, 18,                      Subnet18,Output01.txt,     6
+1,     179,  501,                 XN-GEN川黄金坪#01,                                             有功功率P,  2,                       Subnet2,Output01.txt,     5
+1,     180,  501,                 XN-GEN川黄金坪#01,                                             无功功率Q,  2,                       Subnet2,Output01.txt,     6
+1,     181,  501,                 XN-GEN川黄金坪#02,                                             有功功率P,  2,                       Subnet2,Output01.txt,     7
+1,     182,  501,                 XN-GEN川黄金坪#02,                                             无功功率Q,  2,                       Subnet2,Output01.txt,     8
+1,     183,  501,                XN-GEN川火烈风电#01,                                             有功功率P, 30,                      Subnet30,Output01.txt,     1
+1,     184,  501,                XN-GEN川火烈风电#01,                                             无功功率Q, 30,                      Subnet30,Output01.txt,     2
+1,     185,  501,                   XN-GEN川吉鱼81,                                             有功功率P, 16,                      Subnet16,Output01.txt,     7
+1,     186,  501,                   XN-GEN川吉鱼81,                                             无功功率Q, 16,                      Subnet16,Output01.txt,     8
+1,     187,  501,                   XN-GEN川吉鱼82,                                             有功功率P, 16,                      Subnet16,Output01.txt,     9
+1,     188,  501,                   XN-GEN川吉鱼82,                                             无功功率Q, 16,                      Subnet16,Output01.txt,    10
+1,     189,  501,                   XN-GEN川吉鱼83,                                             有功功率P, 16,                      Subnet16,Output02.txt,     1
+1,     190,  501,                   XN-GEN川吉鱼83,                                             无功功率Q, 16,                      Subnet16,Output02.txt,     2
+1,     191,  501,               XN-GEN川甲米河二级#01,                                             有功功率P, 38,                      Subnet38,Output01.txt,     7
+1,     192,  501,               XN-GEN川甲米河二级#01,                                             无功功率Q, 38,                      Subnet38,Output01.txt,     8
+1,     193,  501,               XN-GEN川甲米河二级#02,                                             有功功率P, 38,                      Subnet38,Output01.txt,     9
+1,     194,  501,               XN-GEN川甲米河二级#02,                                             无功功率Q, 38,                      Subnet38,Output01.txt,    10
+1,     195,  501,               XN-GEN川甲米河二级#03,                                             有功功率P, 38,                      Subnet38,Output02.txt,     1
+1,     196,  501,               XN-GEN川甲米河二级#03,                                             无功功率Q, 38,                      Subnet38,Output02.txt,     2
+1,     197,  501,                 XN-GEN川姜射坝#01,                                             有功功率P, 31,                      Subnet31,Output01.txt,     9
+1,     198,  501,                 XN-GEN川姜射坝#01,                                             无功功率Q, 31,                      Subnet31,Output01.txt,    10
+1,     199,  501,                 XN-GEN川姜射坝#02,                                             有功功率P, 31,                      Subnet31,Output02.txt,     1
+1,     200,  501,                 XN-GEN川姜射坝#02,                                             无功功率Q, 31,                      Subnet31,Output02.txt,     2
+1,     201,  501,                 XN-GEN川姜射坝#03,                                             有功功率P, 31,                      Subnet31,Output02.txt,     3
+1,     202,  501,                 XN-GEN川姜射坝#03,                                             无功功率Q, 31,                      Subnet31,Output02.txt,     4
+1,     203,  501,                   XN-GEN川江边#1,                                             有功功率P, 16,                      Subnet16,Output02.txt,     3
+1,     204,  501,                   XN-GEN川江边#1,                                             无功功率Q, 16,                      Subnet16,Output02.txt,     4
+1,     205,  501,                   XN-GEN川江边#2,                                             有功功率P, 16,                      Subnet16,Output02.txt,     5
+1,     206,  501,                   XN-GEN川江边#2,                                             无功功率Q, 16,                      Subnet16,Output02.txt,     6
+1,     207,  501,                   XN-GEN川江边#3,                                             有功功率P, 16,                      Subnet16,Output02.txt,     7
+1,     208,  501,                   XN-GEN川江边#3,                                             无功功率Q, 16,                      Subnet16,Output02.txt,     8
+1,     209,  501,                  XN-GEN川江油#31,                                             有功功率P, 18,                      Subnet18,Output01.txt,     7
+1,     210,  501,                  XN-GEN川江油#31,                                             无功功率Q, 18,                      Subnet18,Output01.txt,     8
+1,     211,  501,                 XN-GEN川交财湾#01,                                             有功功率P, 39,                      Subnet39,Output01.txt,     7
+1,     212,  501,                 XN-GEN川交财湾#01,                                             无功功率Q, 39,                      Subnet39,Output01.txt,     8
+1,     213,  501,                 XN-GEN川交财湾#02,                                             有功功率P, 39,                      Subnet39,Output01.txt,     9
+1,     214,  501,                 XN-GEN川交财湾#02,                                             无功功率Q, 39,                      Subnet39,Output01.txt,    10
+1,     215,  501,                 XN-GEN川脚基坪#01,                                             有功功率P, 32,                      Subnet32,Output01.txt,     5
+1,     216,  501,                 XN-GEN川脚基坪#01,                                             无功功率Q, 32,                      Subnet32,Output01.txt,     6
+1,     217,  501,                 XN-GEN川脚基坪#02,                                             有功功率P, 32,                      Subnet32,Output01.txt,     7
+1,     218,  501,                 XN-GEN川脚基坪#02,                                             无功功率Q, 32,                      Subnet32,Output01.txt,     8
+1,     219,  501,                  XN-GEN川金康#01,                                             有功功率P, 26,                      Subnet26,Output01.txt,     3
+1,     220,  501,                  XN-GEN川金康#01,                                             无功功率Q, 26,                      Subnet26,Output01.txt,     4
+1,     221,  501,                  XN-GEN川金康#02,                                             有功功率P, 26,                      Subnet26,Output01.txt,     5
+1,     222,  501,                  XN-GEN川金康#02,                                             无功功率Q, 26,                      Subnet26,Output01.txt,     6
+1,     223,  501,                 XN-GEN川金龙潭#01,                                             有功功率P, 21,                      Subnet21,Output01.txt,     7
+1,     224,  501,                 XN-GEN川金龙潭#01,                                             无功功率Q, 21,                      Subnet21,Output01.txt,     8
+1,     225,  501,                 XN-GEN川金堂厂#61,                                             有功功率P,  5,                       Subnet5,Output01.txt,     1
+1,     226,  501,                 XN-GEN川金堂厂#61,                                             无功功率Q,  5,                       Subnet5,Output01.txt,     2
+1,     227,  501,                 XN-GEN川金银台#01,                                             有功功率P, 20,                      Subnet20,Output01.txt,     1
+1,     228,  501,                 XN-GEN川金银台#01,                                             无功功率Q, 20,                      Subnet20,Output01.txt,     2
+1,     229,  501,                 XN-GEN川金银台#02,                                             有功功率P, 20,                      Subnet20,Output01.txt,     3
+1,     230,  501,                 XN-GEN川金银台#02,                                             无功功率Q, 20,                      Subnet20,Output01.txt,     4
+1,     231,  501,                 XN-GEN川金银台#03,                                             有功功率P, 20,                      Subnet20,Output01.txt,     5
+1,     232,  501,                 XN-GEN川金银台#03,                                             无功功率Q, 20,                      Subnet20,Output01.txt,     6
+1,     233,  501,                  XN-GEN川锦东#01,                                             有功功率P, 10,                      Subnet10,Output01.txt,     3
+1,     234,  501,                  XN-GEN川锦东#01,                                             无功功率Q, 10,                      Subnet10,Output01.txt,     4
+1,     235,  501,                  XN-GEN川锦东#02,                                             有功功率P, 10,                      Subnet10,Output01.txt,     5
+1,     236,  501,                  XN-GEN川锦东#02,                                             无功功率Q, 10,                      Subnet10,Output01.txt,     6
+1,     237,  501,                  XN-GEN川锦东#03,                                             有功功率P, 10,                      Subnet10,Output01.txt,     7
+1,     238,  501,                  XN-GEN川锦东#03,                                             无功功率Q, 10,                      Subnet10,Output01.txt,     8
+1,     239,  501,                  XN-GEN川锦东#04,                                             有功功率P, 10,                      Subnet10,Output01.txt,     9
+1,     240,  501,                  XN-GEN川锦东#04,                                             无功功率Q, 10,                      Subnet10,Output01.txt,    10
+1,     241,  501,                  XN-GEN川锦东#05,                                             有功功率P, 10,                      Subnet10,Output02.txt,     1
+1,     242,  501,                  XN-GEN川锦东#05,                                             无功功率Q, 10,                      Subnet10,Output02.txt,     2
+1,     243,  501,                  XN-GEN川锦东#06,                                             有功功率P, 10,                      Subnet10,Output02.txt,     3
+1,     244,  501,                  XN-GEN川锦东#06,                                             无功功率Q, 10,                      Subnet10,Output02.txt,     4
+1,     245,  501,                  XN-GEN川锦东#07,                                             有功功率P, 10,                      Subnet10,Output02.txt,     5
+1,     246,  501,                  XN-GEN川锦东#07,                                             无功功率Q, 10,                      Subnet10,Output02.txt,     6
+1,     247,  501,                  XN-GEN川锦东#08,                                             有功功率P, 10,                      Subnet10,Output02.txt,     7
+1,     248,  501,                  XN-GEN川锦东#08,                                             无功功率Q, 10,                      Subnet10,Output02.txt,     8
+1,     249,  501,                  XN-GEN川锦西#01,                                             有功功率P, 37,                      Subnet37,Output01.txt,     3
+1,     250,  501,                  XN-GEN川锦西#01,                                             无功功率Q, 37,                      Subnet37,Output01.txt,     4
+1,     251,  501,                  XN-GEN川锦西#02,                                             有功功率P, 37,                      Subnet37,Output01.txt,     5
+1,     252,  501,                  XN-GEN川锦西#02,                                             无功功率Q, 37,                      Subnet37,Output01.txt,     6
+1,     253,  501,                  XN-GEN川锦西#03,                                             有功功率P, 37,                      Subnet37,Output01.txt,     7
+1,     254,  501,                  XN-GEN川锦西#03,                                             无功功率Q, 37,                      Subnet37,Output01.txt,     8
+1,     255,  501,                  XN-GEN川锦西#04,                                             有功功率P, 37,                      Subnet37,Output01.txt,     9
+1,     256,  501,                  XN-GEN川锦西#04,                                             无功功率Q, 37,                      Subnet37,Output01.txt,    10
+1,     257,  501,                  XN-GEN川锦西#05,                                             有功功率P, 37,                      Subnet37,Output02.txt,     1
+1,     258,  501,                  XN-GEN川锦西#05,                                             无功功率Q, 37,                      Subnet37,Output02.txt,     2
+1,     259,  501,                  XN-GEN川锦西#06,                                             有功功率P, 37,                      Subnet37,Output02.txt,     3
+1,     260,  501,                  XN-GEN川锦西#06,                                             无功功率Q, 37,                      Subnet37,Output02.txt,     4
+1,     261,  501,                  XN-GEN川久铁#01,                                             有功功率P, 14,                      Subnet14,Output01.txt,     1
+1,     262,  501,                  XN-GEN川久铁#01,                                             无功功率Q, 14,                      Subnet14,Output01.txt,     2
+1,     263,  501,                  XN-GEN川久铁#02,                                             有功功率P, 14,                      Subnet14,Output01.txt,     3
+1,     264,  501,                  XN-GEN川久铁#02,                                             无功功率Q, 14,                      Subnet14,Output01.txt,     4
+1,     265,  501,                  XN-GEN川卡基娃#1,                                             有功功率P, 29,                      Subnet29,Output01.txt,     9
+1,     266,  501,                  XN-GEN川卡基娃#1,                                             无功功率Q, 29,                      Subnet29,Output01.txt,    10
+1,     267,  501,                  XN-GEN川卡基娃#2,                                             有功功率P, 29,                      Subnet29,Output02.txt,     1
+1,     268,  501,                  XN-GEN川卡基娃#2,                                             无功功率Q, 29,                      Subnet29,Output02.txt,     2
+1,     269,  501,                  XN-GEN川卡基娃#3,                                             有功功率P, 29,                      Subnet29,Output02.txt,     3
+1,     270,  501,                  XN-GEN川卡基娃#3,                                             无功功率Q, 29,                      Subnet29,Output02.txt,     4
+1,     271,  501,             XN-GEN川卡基娃生态机组#01,                                             有功功率P, 29,                      Subnet29,Output02.txt,     5
+1,     272,  501,             XN-GEN川卡基娃生态机组#01,                                             无功功率Q, 29,                      Subnet29,Output02.txt,     6
+1,     273,  501,             XN-GEN川卡基娃生态机组#02,                                             有功功率P, 29,                      Subnet29,Output02.txt,     7
+1,     274,  501,             XN-GEN川卡基娃生态机组#02,                                             无功功率Q, 29,                      Subnet29,Output02.txt,     8
+1,     275,  501,                  XN-GEN川康托#01,                                             有功功率P, 19,                      Subnet19,Output01.txt,     9
+1,     276,  501,                  XN-GEN川康托#01,                                             无功功率Q, 19,                      Subnet19,Output01.txt,    10
+1,     277,  501,                  XN-GEN川康托#02,                                             有功功率P, 19,                      Subnet19,Output02.txt,     1
+1,     278,  501,                  XN-GEN川康托#02,                                             无功功率Q, 19,                      Subnet19,Output02.txt,     2
+1,     279,  501,                 XN-GEN川拉角沟#01,                                             有功功率P, 13,                      Subnet13,Output02.txt,     3
+1,     280,  501,                 XN-GEN川拉角沟#01,                                             无功功率Q, 13,                      Subnet13,Output02.txt,     4
+1,     281,  501,                 XN-GEN川拉角沟#02,                                             有功功率P, 13,                      Subnet13,Output02.txt,     5
+1,     282,  501,                 XN-GEN川拉角沟#02,                                             无功功率Q, 13,                      Subnet13,Output02.txt,     6
+1,     283,  501,                  XN-GEN川拉拉山#1,                                             有功功率P, 24,                      Subnet24,Output01.txt,     3
+1,     284,  501,                  XN-GEN川拉拉山#1,                                             无功功率Q, 24,                      Subnet24,Output01.txt,     4
+1,     285,  501,                  XN-GEN川拉拉山#2,                                             有功功率P, 24,                      Subnet24,Output01.txt,     5
+1,     286,  501,                  XN-GEN川拉拉山#2,                                             无功功率Q, 24,                      Subnet24,Output01.txt,     6
+1,     287,  501,                XN-GEN川拉马风电#02,                                             有功功率P, 28,                      Subnet28,Output01.txt,     1
+1,     288,  501,                XN-GEN川拉马风电#02,                                             无功功率Q, 28,                      Subnet28,Output01.txt,     2
+1,     289,  501,                 XN-GEN川冷竹关#01,                                             有功功率P, 27,                      Subnet27,Output01.txt,     5
+1,     290,  501,                 XN-GEN川冷竹关#01,                                             无功功率Q, 27,                      Subnet27,Output01.txt,     6
+1,     291,  501,                 XN-GEN川冷竹关#02,                                             有功功率P, 27,                      Subnet27,Output01.txt,     7
+1,     292,  501,                 XN-GEN川冷竹关#02,                                             无功功率Q, 27,                      Subnet27,Output01.txt,     8
+1,     293,  501,                  XN-GEN川栗子坪#1,                                             有功功率P, 34,                      Subnet34,Output01.txt,     1
+1,     294,  501,                  XN-GEN川栗子坪#1,                                             无功功率Q, 34,                      Subnet34,Output01.txt,     2
+1,     295,  501,                  XN-GEN川立洲#01,                                             有功功率P, 26,                      Subnet26,Output01.txt,     7
+1,     296,  501,                  XN-GEN川立洲#01,                                             无功功率Q, 26,                      Subnet26,Output01.txt,     8
+1,     297,  501,                  XN-GEN川立洲#02,                                             有功功率P, 26,                      Subnet26,Output01.txt,     9
+1,     298,  501,                  XN-GEN川立洲#02,                                             无功功率Q, 26,                      Subnet26,Output01.txt,    10
+1,     299,  501,                XN-GEN川立洲生态#01,                                             有功功率P, 26,                      Subnet26,Output02.txt,     1
+1,     300,  501,                XN-GEN川立洲生态#01,                                             无功功率Q, 26,                      Subnet26,Output02.txt,     2
+1,     301,  501,                XN-GEN川立洲生态#02,                                             有功功率P, 26,                      Subnet26,Output02.txt,     3
+1,     302,  501,                XN-GEN川立洲生态#02,                                             无功功率Q, 26,                      Subnet26,Output02.txt,     4
+1,     303,  501,                  XN-GEN川联补#01,                                             有功功率P, 37,                      Subnet37,Output02.txt,     5
+1,     304,  501,                  XN-GEN川联补#01,                                             无功功率Q, 37,                      Subnet37,Output02.txt,     6
+1,     305,  501,                  XN-GEN川联补#02,                                             有功功率P, 37,                      Subnet37,Output02.txt,     7
+1,     306,  501,                  XN-GEN川联补#02,                                             无功功率Q, 37,                      Subnet37,Output02.txt,     8
+1,     307,  501,                  XN-GEN川凉风坳#1,                                             有功功率P, 10,                      Subnet10,Output02.txt,     9
+1,     308,  501,                  XN-GEN川凉风坳#1,                                             无功功率Q, 10,                      Subnet10,Output02.txt,    10
+1,     309,  501,                  XN-GEN川临巴#31,                                             有功功率P, 32,                      Subnet32,Output01.txt,     9
+1,     310,  501,                  XN-GEN川临巴#31,                                             无功功率Q, 32,                      Subnet32,Output01.txt,    10
+1,     311,  501,                  XN-GEN川灵溪#01,                                             有功功率P, 30,                      Subnet30,Output01.txt,     3
+1,     312,  501,                  XN-GEN川灵溪#01,                                             无功功率Q, 30,                      Subnet30,Output01.txt,     4
+1,     313,  501,                  XN-GEN川灵溪#02,                                             有功功率P, 30,                      Subnet30,Output01.txt,     5
+1,     314,  501,                  XN-GEN川灵溪#02,                                             无功功率Q, 30,                      Subnet30,Output01.txt,     6
+1,     315,  501,                   XN-GEN川柳洪#1,                                             有功功率P, 36,                      Subnet36,Output01.txt,     7
+1,     316,  501,                   XN-GEN川柳洪#1,                                             无功功率Q, 36,                      Subnet36,Output01.txt,     8
+1,     317,  501,                   XN-GEN川柳洪#2,                                             有功功率P, 36,                      Subnet36,Output01.txt,     9
+1,     318,  501,                   XN-GEN川柳洪#2,                                             无功功率Q, 36,                      Subnet36,Output01.txt,    10
+1,     319,  501,                   XN-GEN川柳洪#3,                                             有功功率P, 36,                      Subnet36,Output02.txt,     1
+1,     320,  501,                   XN-GEN川柳洪#3,                                             无功功率Q, 36,                      Subnet36,Output02.txt,     2
+1,     321,  501,                   XN-GEN川柳坪#1,                                             有功功率P, 12,                      Subnet12,Output02.txt,     9
+1,     322,  501,                   XN-GEN川柳坪#1,                                             无功功率Q, 12,                      Subnet12,Output02.txt,    10
+1,     323,  501,                  XN-GEN川龙安#01,                                             有功功率P,  8,                       Subnet8,Output01.txt,     3
+1,     324,  501,                  XN-GEN川龙安#01,                                             无功功率Q,  8,                       Subnet8,Output01.txt,     4
+1,     325,  501,                  XN-GEN川龙洞#01,                                             有功功率P,  6,                       Subnet6,Output01.txt,     5
+1,     326,  501,                  XN-GEN川龙洞#01,                                             无功功率Q,  6,                       Subnet6,Output01.txt,     6
+1,     327,  501,                  XN-GEN川龙洞#02,                                             有功功率P,  6,                       Subnet6,Output01.txt,     7
+1,     328,  501,                  XN-GEN川龙洞#02,                                             无功功率Q,  6,                       Subnet6,Output01.txt,     8
+1,     329,  501,                  XN-GEN川龙洞#03,                                             有功功率P,  6,                       Subnet6,Output01.txt,     9
+1,     330,  501,                  XN-GEN川龙洞#03,                                             无功功率Q,  6,                       Subnet6,Output01.txt,    10
+1,     331,  501,                 XN-GEN川龙头石#01,                                             有功功率P, 38,                      Subnet38,Output02.txt,     3
+1,     332,  501,                 XN-GEN川龙头石#01,                                             无功功率Q, 38,                      Subnet38,Output02.txt,     4
+1,     333,  501,                 XN-GEN川龙头石#02,                                             有功功率P, 38,                      Subnet38,Output02.txt,     5
+1,     334,  501,                 XN-GEN川龙头石#02,                                             无功功率Q, 38,                      Subnet38,Output02.txt,     6
+1,     335,  501,                 XN-GEN川龙头石#03,                                             有功功率P, 38,                      Subnet38,Output02.txt,     7
+1,     336,  501,                 XN-GEN川龙头石#03,                                             无功功率Q, 38,                      Subnet38,Output02.txt,     8
+1,     337,  501,                 XN-GEN川毛尔盖#01,                                             有功功率P, 12,                      Subnet12,Output03.txt,     1
+1,     338,  501,                 XN-GEN川毛尔盖#01,                                             无功功率Q, 12,                      Subnet12,Output03.txt,     2
+1,     339,  501,                 XN-GEN川毛尔盖#02,                                             有功功率P, 12,                      Subnet12,Output03.txt,     3
+1,     340,  501,                 XN-GEN川毛尔盖#02,                                             无功功率Q, 12,                      Subnet12,Output03.txt,     4
+1,     341,  501,                 XN-GEN川毛尔盖#04,                                             有功功率P, 12,                      Subnet12,Output03.txt,     5
+1,     342,  501,                 XN-GEN川毛尔盖#04,                                             无功功率Q, 12,                      Subnet12,Output03.txt,     6
+1,     343,  501,                   XN-GEN川毛滩#1,                                             有功功率P, 31,                      Subnet31,Output02.txt,     5
+1,     344,  501,                   XN-GEN川毛滩#1,                                             无功功率Q, 31,                      Subnet31,Output02.txt,     6
+1,     345,  501,                   XN-GEN川毛滩#2,                                             有功功率P, 31,                      Subnet31,Output02.txt,     7
+1,     346,  501,                   XN-GEN川毛滩#2,                                             无功功率Q, 31,                      Subnet31,Output02.txt,     8
+1,     347,  501,                   XN-GEN川毛滩#3,                                             有功功率P, 31,                      Subnet31,Output02.txt,     9
+1,     348,  501,                   XN-GEN川毛滩#3,                                             无功功率Q, 31,                      Subnet31,Output02.txt,    10
+1,     349,  501,                   XN-GEN川毛滩#4,                                             有功功率P, 31,                      Subnet31,Output03.txt,     1
+1,     350,  501,                   XN-GEN川毛滩#4,                                             无功功率Q, 31,                      Subnet31,Output03.txt,     2
+1,     351,  501,                   XN-GEN川民治#1,                                             有功功率P, 11,                      Subnet11,Output01.txt,     1
+1,     352,  501,                   XN-GEN川民治#1,                                             无功功率Q, 11,                      Subnet11,Output01.txt,     2
+1,     353,  501,                   XN-GEN川木坡#1,                                             有功功率P, 40,                      Subnet40,Output01.txt,     7
+1,     354,  501,                   XN-GEN川木坡#1,                                             无功功率Q, 40,                      Subnet40,Output01.txt,     8
+1,     355,  501,                   XN-GEN川木坡#2,                                             有功功率P, 40,                      Subnet40,Output01.txt,     9
+1,     356,  501,                   XN-GEN川木坡#2,                                             无功功率Q, 40,                      Subnet40,Output01.txt,    10
+1,     357,  501,                   XN-GEN川木坡#3,                                             有功功率P, 40,                      Subnet40,Output02.txt,     1
+1,     358,  501,                   XN-GEN川木坡#3,                                             无功功率Q, 40,                      Subnet40,Output02.txt,     2
+1,     359,  501,                  XN-GEN川木座#01,                                             有功功率P, 18,                      Subnet18,Output01.txt,     9
+1,     360,  501,                  XN-GEN川木座#01,                                             无功功率Q, 18,                      Subnet18,Output01.txt,    10
+1,     361,  501,                   XN-GEN川南坪#1,                                             有功功率P, 20,                      Subnet20,Output01.txt,     7
+1,     362,  501,                   XN-GEN川南坪#1,                                             无功功率Q, 20,                      Subnet20,Output01.txt,     8
+1,     363,  501,                   XN-GEN川南坪#2,                                             有功功率P, 20,                      Subnet20,Output01.txt,     9
+1,     364,  501,                   XN-GEN川南坪#2,                                             无功功率Q, 20,                      Subnet20,Output01.txt,    10
+1,     365,  501,                   XN-GEN川南坪#3,                                             有功功率P, 20,                      Subnet20,Output02.txt,     1
+1,     366,  501,                   XN-GEN川南坪#3,                                             无功功率Q, 20,                      Subnet20,Output02.txt,     2
+1,     367,  501,                  XN-GEN川南桠河81,                                             有功功率P, 38,                      Subnet38,Output02.txt,     9
+1,     368,  501,                  XN-GEN川南桠河81,                                             无功功率Q, 38,                      Subnet38,Output02.txt,    10
+1,     369,  501,                  XN-GEN川南桠河82,                                             有功功率P, 38,                      Subnet38,Output03.txt,     1
+1,     370,  501,                  XN-GEN川南桠河82,                                             无功功率Q, 38,                      Subnet38,Output03.txt,     2
+1,     371,  501,                  XN-GEN川南桠河83,                                             有功功率P, 38,                      Subnet38,Output03.txt,     3
+1,     372,  501,                  XN-GEN川南桠河83,                                             无功功率Q, 38,                      Subnet38,Output03.txt,     4
+1,     373,  501,                   XN-GEN川娘拥#1,                                             有功功率P, 23,                      Subnet23,Output01.txt,     1
+1,     374,  501,                   XN-GEN川娘拥#1,                                             无功功率Q, 23,                      Subnet23,Output01.txt,     2
+1,     375,  501,                   XN-GEN川宁朗#1,                                             有功功率P,  7,                       Subnet7,Output01.txt,     1
+1,     376,  501,                   XN-GEN川宁朗#1,                                             无功功率Q,  7,                       Subnet7,Output01.txt,     2
+1,     377,  501,                   XN-GEN川宁朗#2,                                             有功功率P,  7,                       Subnet7,Output01.txt,     3
+1,     378,  501,                   XN-GEN川宁朗#2,                                             无功功率Q,  7,                       Subnet7,Output01.txt,     4
+1,     379,  501,                 XN-GEN川跑马坪#01,                                             有功功率P,  3,                       Subnet3,Output02.txt,     3
+1,     380,  501,                 XN-GEN川跑马坪#01,                                             无功功率Q,  3,                       Subnet3,Output02.txt,     4
+1,     381,  501,                  XN-GEN川坪头#01,                                             有功功率P, 29,                      Subnet29,Output02.txt,     9
+1,     382,  501,                  XN-GEN川坪头#01,                                             无功功率Q, 29,                      Subnet29,Output02.txt,    10
+1,     383,  501,                  XN-GEN川坪头#02,                                             有功功率P, 29,                      Subnet29,Output03.txt,     1
+1,     384,  501,                  XN-GEN川坪头#02,                                             无功功率Q, 29,                      Subnet29,Output03.txt,     2
+1,     385,  501,                  XN-GEN川坪头#03,                                             有功功率P, 29,                      Subnet29,Output03.txt,     3
+1,     386,  501,                  XN-GEN川坪头#03,                                             无功功率Q, 29,                      Subnet29,Output03.txt,     4
+1,     387,  501,                 XN-GEN川瀑布沟#01,                                             有功功率P, 25,                      Subnet25,Output01.txt,     1
+1,     388,  501,                 XN-GEN川瀑布沟#01,                                             无功功率Q, 25,                      Subnet25,Output01.txt,     2
+1,     389,  501,                 XN-GEN川瀑布沟#02,                                             有功功率P, 25,                      Subnet25,Output01.txt,     3
+1,     390,  501,                 XN-GEN川瀑布沟#02,                                             无功功率Q, 25,                      Subnet25,Output01.txt,     4
+1,     391,  501,                 XN-GEN川瀑布沟#03,                                             有功功率P, 25,                      Subnet25,Output01.txt,     5
+1,     392,  501,                 XN-GEN川瀑布沟#03,                                             无功功率Q, 25,                      Subnet25,Output01.txt,     6
+1,     393,  501,                  XN-GEN川晴朗#01,                                             有功功率P, 25,                      Subnet25,Output01.txt,     7
+1,     394,  501,                  XN-GEN川晴朗#01,                                             无功功率Q, 25,                      Subnet25,Output01.txt,     8
+1,     395,  501,                  XN-GEN川去学#01,                                             有功功率P, 19,                      Subnet19,Output02.txt,     3
+1,     396,  501,                  XN-GEN川去学#01,                                             无功功率Q, 19,                      Subnet19,Output02.txt,     4
+1,     397,  501,                 XN-GEN川仁宗海#01,                                             有功功率P, 40,                      Subnet40,Output02.txt,     3
+1,     398,  501,                 XN-GEN川仁宗海#01,                                             无功功率Q, 40,                      Subnet40,Output02.txt,     4
+1,     399,  501,                  XN-GEN川戎州#01,                                             有功功率P, 14,                      Subnet14,Output01.txt,     5
+1,     400,  501,                  XN-GEN川戎州#01,                                             无功功率Q, 14,                      Subnet14,Output01.txt,     6
+1,     401,  501,                  XN-GEN川若水#01,                                             有功功率P, 38,                      Subnet38,Output03.txt,     5
+1,     402,  501,                  XN-GEN川若水#01,                                             无功功率Q, 38,                      Subnet38,Output03.txt,     6
+1,     403,  501,                  XN-GEN川若水#02,                                             有功功率P, 38,                      Subnet38,Output03.txt,     7
+1,     404,  501,                  XN-GEN川若水#02,                                             无功功率Q, 38,                      Subnet38,Output03.txt,     8
+1,     405,  501,                   XN-GEN川撒多#1,                                             有功功率P,  4,                       Subnet4,Output02.txt,     7
+1,     406,  501,                   XN-GEN川撒多#1,                                             无功功率Q,  4,                       Subnet4,Output02.txt,     8
+1,     407,  501,                XN-GEN川三地风电#02,                                             有功功率P,  9,                       Subnet9,Output01.txt,     5
+1,     408,  501,                XN-GEN川三地风电#02,                                             无功功率Q,  9,                       Subnet9,Output01.txt,     6
+1,     409,  501,                   XN-GEN川沙坪#1,                                             有功功率P, 29,                      Subnet29,Output03.txt,     5
+1,     410,  501,                   XN-GEN川沙坪#1,                                             无功功率Q, 29,                      Subnet29,Output03.txt,     6
+1,     411,  501,                   XN-GEN川沙坪#2,                                             有功功率P, 29,                      Subnet29,Output03.txt,     7
+1,     412,  501,                   XN-GEN川沙坪#2,                                             无功功率Q, 29,                      Subnet29,Output03.txt,     8
+1,     413,  501,                   XN-GEN川沙坪#3,                                             有功功率P, 29,                      Subnet29,Output03.txt,     9
+1,     414,  501,                   XN-GEN川沙坪#3,                                             无功功率Q, 29,                      Subnet29,Output03.txt,    10
+1,     415,  501,                 XN-GEN川沙坪二级#1,                                             有功功率P, 10,                      Subnet10,Output03.txt,     1
+1,     416,  501,                 XN-GEN川沙坪二级#1,                                             无功功率Q, 10,                      Subnet10,Output03.txt,     2
+1,     417,  501,                 XN-GEN川沙坪二级#2,                                             有功功率P, 10,                      Subnet10,Output03.txt,     3
+1,     418,  501,                 XN-GEN川沙坪二级#2,                                             无功功率Q, 10,                      Subnet10,Output03.txt,     4
+1,     419,  501,                   XN-GEN川沙溪#1,                                             有功功率P, 11,                      Subnet11,Output01.txt,     7
+1,     420,  501,                   XN-GEN川沙溪#1,                                             无功功率Q, 11,                      Subnet11,Output01.txt,     8
+1,     421,  501,                   XN-GEN川沙溪#2,                                             有功功率P, 11,                      Subnet11,Output01.txt,     9
+1,     422,  501,                   XN-GEN川沙溪#2,                                             无功功率Q, 11,                      Subnet11,Output01.txt,    10
+1,     423,  501,                   XN-GEN川沙溪#3,                                             有功功率P, 11,                      Subnet11,Output02.txt,     1
+1,     424,  501,                   XN-GEN川沙溪#3,                                             无功功率Q, 11,                      Subnet11,Output02.txt,     2
+1,     425,  501,                 XN-GEN川深溪沟#01,                                             有功功率P, 22,                      Subnet22,Output01.txt,     7
+1,     426,  501,                 XN-GEN川深溪沟#01,                                             无功功率Q, 22,                      Subnet22,Output01.txt,     8
+1,     427,  501,                 XN-GEN川深溪沟#02,                                             有功功率P, 22,                      Subnet22,Output01.txt,     9
+1,     428,  501,                 XN-GEN川深溪沟#02,                                             无功功率Q, 22,                      Subnet22,Output01.txt,    10
+1,     429,  501,                 XN-GEN川深溪沟#03,                                             有功功率P, 22,                      Subnet22,Output02.txt,     1
+1,     430,  501,                 XN-GEN川深溪沟#03,                                             无功功率Q, 22,                      Subnet22,Output02.txt,     2
+1,     431,  501,                   XN-GEN川圣达#1,                                             有功功率P, 36,                      Subnet36,Output02.txt,     3
+1,     432,  501,                   XN-GEN川圣达#1,                                             无功功率Q, 36,                      Subnet36,Output02.txt,     4
+1,     433,  501,                 XN-GEN川狮子坪#01,                                             有功功率P, 29,                      Subnet29,Output04.txt,     1
+1,     434,  501,                 XN-GEN川狮子坪#01,                                             无功功率Q, 29,                      Subnet29,Output04.txt,     2
+1,     435,  501,                  XN-GEN川石碉楼#1,                                             有功功率P, 12,                      Subnet12,Output03.txt,     7
+1,     436,  501,                  XN-GEN川石碉楼#1,                                             无功功率Q, 12,                      Subnet12,Output03.txt,     8
+1,     437,  501,                  XN-GEN川石碉楼#2,                                             有功功率P, 12,                      Subnet12,Output03.txt,     9
+1,     438,  501,                  XN-GEN川石碉楼#2,                                             无功功率Q, 12,                      Subnet12,Output03.txt,    10
+1,     439,  501,                 XN-GEN川水牛家#01,                                             有功功率P, 28,                      Subnet28,Output01.txt,     3
+1,     440,  501,                 XN-GEN川水牛家#01,                                             无功功率Q, 28,                      Subnet28,Output01.txt,     4
+1,     441,  501,                   XN-GEN川硕淉#1,                                             有功功率P, 39,                      Subnet39,Output02.txt,     1
+1,     442,  501,                   XN-GEN川硕淉#1,                                             无功功率Q, 39,                      Subnet39,Output02.txt,     2
+1,     443,  501,                   XN-GEN川硕中#1,                                             有功功率P, 27,                      Subnet27,Output01.txt,     9
+1,     444,  501,                   XN-GEN川硕中#1,                                             无功功率Q, 27,                      Subnet27,Output01.txt,    10
+1,     445,  501,                  XN-GEN川苏巴姑#1,                                             有功功率P, 16,                      Subnet16,Output02.txt,     9
+1,     446,  501,                  XN-GEN川苏巴姑#1,                                             无功功率Q, 16,                      Subnet16,Output02.txt,    10
+1,     447,  501,                  XN-GEN川苏巴姑#2,                                             有功功率P, 16,                      Subnet16,Output03.txt,     1
+1,     448,  501,                  XN-GEN川苏巴姑#2,                                             无功功率Q, 16,                      Subnet16,Output03.txt,     2
+1,     449,  501,                  XN-GEN川踏卡#01,                                             有功功率P,  9,                       Subnet9,Output01.txt,     7
+1,     450,  501,                  XN-GEN川踏卡#01,                                             无功功率Q,  9,                       Subnet9,Output01.txt,     8
+1,     451,  501,                  XN-GEN川踏卡#02,                                             有功功率P,  9,                       Subnet9,Output01.txt,     9
+1,     452,  501,                  XN-GEN川踏卡#02,                                             无功功率Q,  9,                       Subnet9,Output01.txt,    10
+1,     453,  501,                 XN-GEN川太平驿#01,                                             有功功率P, 22,                      Subnet22,Output02.txt,     3
+1,     454,  501,                 XN-GEN川太平驿#01,                                             无功功率Q, 22,                      Subnet22,Output02.txt,     4
+1,     455,  501,                 XN-GEN川太平驿#02,                                             有功功率P, 22,                      Subnet22,Output02.txt,     5
+1,     456,  501,                 XN-GEN川太平驿#02,                                             无功功率Q, 22,                      Subnet22,Output02.txt,     6
+1,     457,  501,                 XN-GEN川太平驿#03,                                             有功功率P, 22,                      Subnet22,Output02.txt,     7
+1,     458,  501,                 XN-GEN川太平驿#03,                                             无功功率Q, 22,                      Subnet22,Output02.txt,     8
+1,     459,  501,                   XN-GEN川唐元#1,                                             有功功率P, 35,                      Subnet35,Output01.txt,     1
+1,     460,  501,                   XN-GEN川唐元#1,                                             无功功率Q, 35,                      Subnet35,Output01.txt,     2
+1,     461,  501,                  XN-GEN川桃坪#01,                                             有功功率P, 28,                      Subnet28,Output01.txt,     5
+1,     462,  501,                  XN-GEN川桃坪#01,                                             无功功率Q, 28,                      Subnet28,Output01.txt,     6
+1,     463,  501,                  XN-GEN川桃坪#02,                                             有功功率P, 28,                      Subnet28,Output01.txt,     7
+1,     464,  501,                  XN-GEN川桃坪#02,                                             无功功率Q, 28,                      Subnet28,Output01.txt,     8
+1,     465,  501,                 XN-GEN川天龙湖#01,                                             有功功率P, 27,                      Subnet27,Output02.txt,     1
+1,     466,  501,                 XN-GEN川天龙湖#01,                                             无功功率Q, 27,                      Subnet27,Output02.txt,     2
+1,     467,  501,                 XN-GEN川天龙湖#02,                                             有功功率P, 27,                      Subnet27,Output02.txt,     3
+1,     468,  501,                 XN-GEN川天龙湖#02,                                             无功功率Q, 27,                      Subnet27,Output02.txt,     4
+1,     469,  501,                 XN-GEN川铁厂河#01,                                             有功功率P, 29,                      Subnet29,Output04.txt,     3
+1,     470,  501,                 XN-GEN川铁厂河#01,                                             无功功率Q, 29,                      Subnet29,Output04.txt,     4
+1,     471,  501,                 XN-GEN川铁厂河#02,                                             有功功率P, 29,                      Subnet29,Output04.txt,     5
+1,     472,  501,                 XN-GEN川铁厂河#02,                                             无功功率Q, 29,                      Subnet29,Output04.txt,     6
+1,     473,  501,                 XN-GEN川亭子口#01,                                             有功功率P, 17,                      Subnet17,Output01.txt,     3
+1,     474,  501,                 XN-GEN川亭子口#01,                                             无功功率Q, 17,                      Subnet17,Output01.txt,     4
+1,     475,  501,                 XN-GEN川铜街子#11,                                             有功功率P, 26,                      Subnet26,Output02.txt,     5
+1,     476,  501,                 XN-GEN川铜街子#11,                                             无功功率Q, 26,                      Subnet26,Output02.txt,     6
+1,     477,  501,                  XN-GEN川铜陵#01,                                             有功功率P, 35,                      Subnet35,Output01.txt,     3
+1,     478,  501,                  XN-GEN川铜陵#01,                                             无功功率Q, 35,                      Subnet35,Output01.txt,     4
+1,     479,  501,                   XN-GEN川万和81,                                             有功功率P, 18,                      Subnet18,Output02.txt,     1
+1,     480,  501,                   XN-GEN川万和81,                                             无功功率Q, 18,                      Subnet18,Output02.txt,     2
+1,     481,  501,                   XN-GEN川万和82,                                             有功功率P, 18,                      Subnet18,Output02.txt,     3
+1,     482,  501,                   XN-GEN川万和82,                                             无功功率Q, 18,                      Subnet18,Output02.txt,     4
+1,     483,  501,                   XN-GEN川万和83,                                             有功功率P, 18,                      Subnet18,Output02.txt,     5
+1,     484,  501,                   XN-GEN川万和83,                                             无功功率Q, 18,                      Subnet18,Output02.txt,     6
+1,     485,  501,                   XN-GEN川万和84,                                             有功功率P, 18,                      Subnet18,Output02.txt,     7
+1,     486,  501,                   XN-GEN川万和84,                                             无功功率Q, 18,                      Subnet18,Output02.txt,     8
+1,     487,  501,                  XN-GEN川威州#01,                                             有功功率P, 40,                      Subnet40,Output02.txt,     5
+1,     488,  501,                  XN-GEN川威州#01,                                             无功功率Q, 40,                      Subnet40,Output02.txt,     6
+1,     489,  501,                  XN-GEN川威州#02,                                             有功功率P, 40,                      Subnet40,Output02.txt,     7
+1,     490,  501,                  XN-GEN川威州#02,                                             无功功率Q, 40,                      Subnet40,Output02.txt,     8
+1,     491,  501,                  XN-GEN川卧罗桥#1,                                             有功功率P, 35,                      Subnet35,Output01.txt,     5
+1,     492,  501,                  XN-GEN川卧罗桥#1,                                             无功功率Q, 35,                      Subnet35,Output01.txt,     6
+1,     493,  501,                 XN-GEN川五一桥#01,                                             有功功率P, 29,                      Subnet29,Output04.txt,     7
+1,     494,  501,                 XN-GEN川五一桥#01,                                             无功功率Q, 29,                      Subnet29,Output04.txt,     8
+1,     495,  501,                 XN-GEN川五一桥#02,                                             有功功率P, 29,                      Subnet29,Output04.txt,     9
+1,     496,  501,                 XN-GEN川五一桥#02,                                             无功功率Q, 29,                      Subnet29,Output04.txt,    10
+1,     497,  501,                 XN-GEN川五一桥#03,                                             有功功率P, 29,                      Subnet29,Output05.txt,     1
+1,     498,  501,                 XN-GEN川五一桥#03,                                             无功功率Q, 29,                      Subnet29,Output05.txt,     2
+1,     499,  501,                XN-GEN川溪洛渡左#01,                                             有功功率P, 32,                      Subnet32,Output02.txt,     1
+1,     500,  501,                XN-GEN川溪洛渡左#01,                                             无功功率Q, 32,                      Subnet32,Output02.txt,     2
+1,     501,  501,                XN-GEN川溪洛渡左#02,                                             有功功率P, 32,                      Subnet32,Output02.txt,     3
+1,     502,  501,                XN-GEN川溪洛渡左#02,                                             无功功率Q, 32,                      Subnet32,Output02.txt,     4
+1,     503,  501,                XN-GEN川溪洛渡左#03,                                             有功功率P, 32,                      Subnet32,Output02.txt,     5
+1,     504,  501,                XN-GEN川溪洛渡左#03,                                             无功功率Q, 32,                      Subnet32,Output02.txt,     6
+1,     505,  501,                XN-GEN川溪洛渡左#04,                                             有功功率P, 32,                      Subnet32,Output02.txt,     7
+1,     506,  501,                XN-GEN川溪洛渡左#04,                                             无功功率Q, 32,                      Subnet32,Output02.txt,     8
+1,     507,  501,                XN-GEN川溪洛渡左#05,                                             有功功率P, 32,                      Subnet32,Output02.txt,     9
+1,     508,  501,                XN-GEN川溪洛渡左#05,                                             无功功率Q, 32,                      Subnet32,Output02.txt,    10
+1,     509,  501,                XN-GEN川溪洛渡左#06,                                             有功功率P, 32,                      Subnet32,Output03.txt,     1
+1,     510,  501,                XN-GEN川溪洛渡左#06,                                             无功功率Q, 32,                      Subnet32,Output03.txt,     2
+1,     511,  501,                XN-GEN川溪洛渡左#07,                                             有功功率P, 32,                      Subnet32,Output03.txt,     3
+1,     512,  501,                XN-GEN川溪洛渡左#07,                                             无功功率Q, 32,                      Subnet32,Output03.txt,     4
+1,     513,  501,                XN-GEN川溪洛渡左#08,                                             有功功率P, 32,                      Subnet32,Output03.txt,     5
+1,     514,  501,                XN-GEN川溪洛渡左#08,                                             无功功率Q, 32,                      Subnet32,Output03.txt,     6
+1,     515,  501,                  XN-GEN川下索子#1,                                             有功功率P, 13,                      Subnet13,Output02.txt,     7
+1,     516,  501,                  XN-GEN川下索子#1,                                             无功功率Q, 13,                      Subnet13,Output02.txt,     8
+1,     517,  501,                  XN-GEN川下索子#2,                                             有功功率P, 13,                      Subnet13,Output02.txt,     9
+1,     518,  501,                  XN-GEN川下索子#2,                                             无功功率Q, 13,                      Subnet13,Output02.txt,    10
+1,     519,  501,                XN-GEN川向家坝右#05,                                             有功功率P,  1,                       Subnet1,Output01.txt,     1
+1,     520,  501,                XN-GEN川向家坝右#05,                                             无功功率Q,  1,                       Subnet1,Output01.txt,     2
+1,     521,  501,                XN-GEN川向家坝右#06,                                             有功功率P,  1,                       Subnet1,Output01.txt,     3
+1,     522,  501,                XN-GEN川向家坝右#06,                                             无功功率Q,  1,                       Subnet1,Output01.txt,     4
+1,     523,  501,                XN-GEN川向家坝右#07,                                             有功功率P,  1,                       Subnet1,Output01.txt,     5
+1,     524,  501,                XN-GEN川向家坝右#07,                                             无功功率Q,  1,                       Subnet1,Output01.txt,     6
+1,     525,  501,                XN-GEN川向家坝右#08,                                             有功功率P,  1,                       Subnet1,Output01.txt,     7
+1,     526,  501,                XN-GEN川向家坝右#08,                                             无功功率Q,  1,                       Subnet1,Output01.txt,     8
+1,     527,  501,                XN-GEN川向家坝左#01,                                             有功功率P,  1,                       Subnet1,Output01.txt,     9
+1,     528,  501,                XN-GEN川向家坝左#01,                                             无功功率Q,  1,                       Subnet1,Output01.txt,    10
+1,     529,  501,                XN-GEN川向家坝左#02,                                             有功功率P,  1,                       Subnet1,Output02.txt,     1
+1,     530,  501,                XN-GEN川向家坝左#02,                                             无功功率Q,  1,                       Subnet1,Output02.txt,     2
+1,     531,  501,                XN-GEN川向家坝左#03,                                             有功功率P,  1,                       Subnet1,Output02.txt,     3
+1,     532,  501,                XN-GEN川向家坝左#03,                                             无功功率Q,  1,                       Subnet1,Output02.txt,     4
+1,     533,  501,                XN-GEN川向家坝左#04,                                             有功功率P,  1,                       Subnet1,Output02.txt,     5
+1,     534,  501,                XN-GEN川向家坝左#04,                                             无功功率Q,  1,                       Subnet1,Output02.txt,     6
+1,     535,  501,                  XN-GEN川小沟头#1,                                             有功功率P, 15,                      Subnet15,Output01.txt,     1
+1,     536,  501,                  XN-GEN川小沟头#1,                                             无功功率Q, 15,                      Subnet15,Output01.txt,     2
+1,     537,  501,                  XN-GEN川小沟头#2,                                             有功功率P, 15,                      Subnet15,Output01.txt,     3
+1,     538,  501,                  XN-GEN川小沟头#2,                                             无功功率Q, 15,                      Subnet15,Output01.txt,     4
+1,     539,  501,                 XN-GEN川小天都#01,                                             有功功率P,  2,                       Subnet2,Output02.txt,     3
+1,     540,  501,                 XN-GEN川小天都#01,                                             无功功率Q,  2,                       Subnet2,Output02.txt,     4
+1,     541,  501,                 XN-GEN川小天都#02,                                             有功功率P,  2,                       Subnet2,Output02.txt,     5
+1,     542,  501,                 XN-GEN川小天都#02,                                             无功功率Q,  2,                       Subnet2,Output02.txt,     6
+1,     543,  501,                 XN-GEN川小天都#03,                                             有功功率P,  2,                       Subnet2,Output02.txt,     7
+1,     544,  501,                 XN-GEN川小天都#03,                                             无功功率Q,  2,                       Subnet2,Output02.txt,     8
+1,     545,  501,                  XN-GEN川斜卡#01,                                             有功功率P, 39,                      Subnet39,Output02.txt,     3
+1,     546,  501,                  XN-GEN川斜卡#01,                                             无功功率Q, 39,                      Subnet39,Output02.txt,     4
+1,     547,  501,                  XN-GEN川斜卡#02,                                             有功功率P, 39,                      Subnet39,Output02.txt,     5
+1,     548,  501,                  XN-GEN川斜卡#02,                                             无功功率Q, 39,                      Subnet39,Output02.txt,     6
+1,     549,  501,                   XN-GEN川新马#1,                                             有功功率P, 31,                      Subnet31,Output03.txt,     3
+1,     550,  501,                   XN-GEN川新马#1,                                             无功功率Q, 31,                      Subnet31,Output03.txt,     4
+1,     551,  501,                   XN-GEN川新马#2,                                             有功功率P, 31,                      Subnet31,Output03.txt,     5
+1,     552,  501,                   XN-GEN川新马#2,                                             无功功率Q, 31,                      Subnet31,Output03.txt,     6
+1,     553,  501,                  XN-GEN川薛城#01,                                             有功功率P, 40,                      Subnet40,Output02.txt,     9
+1,     554,  501,                  XN-GEN川薛城#01,                                             无功功率Q, 40,                      Subnet40,Output02.txt,    10
+1,     555,  501,                  XN-GEN川雅都#01,                                             有功功率P, 12,                      Subnet12,Output04.txt,     1
+1,     556,  501,                  XN-GEN川雅都#01,                                             无功功率Q, 12,                      Subnet12,Output04.txt,     2
+1,     557,  501,                  XN-GEN川烟岗#01,                                             有功功率P,  3,                       Subnet3,Output02.txt,     5
+1,     558,  501,                  XN-GEN川烟岗#01,                                             无功功率Q,  3,                       Subnet3,Output02.txt,     6
+1,     559,  501,                  XN-GEN川姚河坝81,                                             有功功率P, 38,                      Subnet38,Output03.txt,     9
+1,     560,  501,                  XN-GEN川姚河坝81,                                             无功功率Q, 38,                      Subnet38,Output03.txt,    10
+1,     561,  501,                  XN-GEN川姚河坝82,                                             有功功率P, 38,                      Subnet38,Output04.txt,     1
+1,     562,  501,                  XN-GEN川姚河坝82,                                             无功功率Q, 38,                      Subnet38,Output04.txt,     2
+1,     563,  501,                  XN-GEN川姚河坝83,                                             有功功率P, 38,                      Subnet38,Output04.txt,     3
+1,     564,  501,                  XN-GEN川姚河坝83,                                             无功功率Q, 38,                      Subnet38,Output04.txt,     4
+1,     565,  501,                XN-GEN川伊达风电#01,                                             有功功率P, 19,                      Subnet19,Output02.txt,     5
+1,     566,  501,                XN-GEN川伊达风电#01,                                             无功功率Q, 19,                      Subnet19,Output02.txt,     6
+1,     567,  501,                XN-GEN川伊达风电#02,                                             有功功率P, 19,                      Subnet19,Output02.txt,     7
+1,     568,  501,                XN-GEN川伊达风电#02,                                             无功功率Q, 19,                      Subnet19,Output02.txt,     8
+1,     569,  501,                   XN-GEN川阴坪#1,                                             有功功率P, 18,                      Subnet18,Output02.txt,     9
+1,     570,  501,                   XN-GEN川阴坪#1,                                             无功功率Q, 18,                      Subnet18,Output02.txt,    10
+1,     571,  501,                  XN-GEN川映秀湾#1,                                             有功功率P, 22,                      Subnet22,Output02.txt,     9
+1,     572,  501,                  XN-GEN川映秀湾#1,                                             无功功率Q, 22,                      Subnet22,Output02.txt,    10
+1,     573,  501,                 XN-GEN川永宁河#01,                                             有功功率P, 38,                      Subnet38,Output04.txt,     5
+1,     574,  501,                 XN-GEN川永宁河#01,                                             无功功率Q, 38,                      Subnet38,Output04.txt,     6
+1,     575,  501,                  XN-GEN川渔子溪#1,                                             有功功率P, 22,                      Subnet22,Output03.txt,     1
+1,     576,  501,                  XN-GEN川渔子溪#1,                                             无功功率Q, 22,                      Subnet22,Output03.txt,     2
+1,     577,  501,                  XN-GEN川渔子溪#2,                                             有功功率P, 22,                      Subnet22,Output03.txt,     3
+1,     578,  501,                  XN-GEN川渔子溪#2,                                             无功功率Q, 22,                      Subnet22,Output03.txt,     4
+1,     579,  501,                   XN-GEN川雨城81,                                             有功功率P, 17,                      Subnet17,Output01.txt,     5
+1,     580,  501,                   XN-GEN川雨城81,                                             无功功率Q, 17,                      Subnet17,Output01.txt,     6
+1,     581,  501,                   XN-GEN川雨城82,                                             有功功率P, 17,                      Subnet17,Output01.txt,     7
+1,     582,  501,                   XN-GEN川雨城82,                                             无功功率Q, 17,                      Subnet17,Output01.txt,     8
+1,     583,  501,                  XN-GEN川玉龙#01,                                             有功功率P, 27,                      Subnet27,Output02.txt,     5
+1,     584,  501,                  XN-GEN川玉龙#01,                                             无功功率Q, 27,                      Subnet27,Output02.txt,     6
+1,     585,  501,                  XN-GEN川玉龙#02,                                             有功功率P, 27,                      Subnet27,Output02.txt,     7
+1,     586,  501,                  XN-GEN川玉龙#02,                                             无功功率Q, 27,                      Subnet27,Output02.txt,     8
+1,     587,  501,                 XN-GEN川枕头坝#01,                                             有功功率P, 11,                      Subnet11,Output02.txt,     3
+1,     588,  501,                 XN-GEN川枕头坝#01,                                             无功功率Q, 11,                      Subnet11,Output02.txt,     4
+1,     589,  501,                 XN-GEN川枕头坝#02,                                             有功功率P, 11,                      Subnet11,Output02.txt,     5
+1,     590,  501,                 XN-GEN川枕头坝#02,                                             无功功率Q, 11,                      Subnet11,Output02.txt,     6
+1,     591,  501,                 XN-GEN川枕头坝#03,                                             有功功率P, 11,                      Subnet11,Output02.txt,     7
+1,     592,  501,                 XN-GEN川枕头坝#03,                                             无功功率Q, 11,                      Subnet11,Output02.txt,     8
+1,     593,  501,                   XN-GEN川舟坝#1,                                             有功功率P, 14,                      Subnet14,Output01.txt,     7
+1,     594,  501,                   XN-GEN川舟坝#1,                                             无功功率Q, 14,                      Subnet14,Output01.txt,     8
+1,     595,  501,                   XN-GEN川舟坝#2,                                             有功功率P, 14,                      Subnet14,Output01.txt,     9
+1,     596,  501,                   XN-GEN川舟坝#2,                                             无功功率Q, 14,                      Subnet14,Output01.txt,    10
+1,     597,  501,                  XN-GEN川竹格多#1,                                             有功功率P, 21,                      Subnet21,Output01.txt,     9
+1,     598,  501,                  XN-GEN川竹格多#1,                                             无功功率Q, 21,                      Subnet21,Output01.txt,    10
+1,     599,  501,                  XN-GEN川竹格多#2,                                             有功功率P, 21,                      Subnet21,Output02.txt,     1
+1,     600,  501,                  XN-GEN川竹格多#2,                                             无功功率Q, 21,                      Subnet21,Output02.txt,     2
+1,     601,  501,                 XN-GEN川紫坪铺#01,                                             有功功率P, 28,                      Subnet28,Output01.txt,     9
+1,     602,  501,                 XN-GEN川紫坪铺#01,                                             无功功率Q, 28,                      Subnet28,Output01.txt,    10
+1,     603,  501,                 XN-GEN川紫坪铺#02,                                             有功功率P, 28,                      Subnet28,Output02.txt,     1
+1,     604,  501,                 XN-GEN川紫坪铺#02,                                             无功功率Q, 28,                      Subnet28,Output02.txt,     2
+1,     605,  501,                 XN-GEN川紫坪铺#03,                                             有功功率P, 28,                      Subnet28,Output02.txt,     3
+1,     606,  501,                 XN-GEN川紫坪铺#03,                                             无功功率Q, 28,                      Subnet28,Output02.txt,     4
+1,     607,  501,                 XN-GEN川自一里#01,                                             有功功率P, 28,                      Subnet28,Output02.txt,     5
+1,     608,  501,                 XN-GEN川自一里#01,                                             无功功率Q, 28,                      Subnet28,Output02.txt,     6
+1,     609,  501,                  XN-GEN川棕坪溪81,                                             有功功率P, 13,                      Subnet13,Output03.txt,     1
+1,     610,  501,                  XN-GEN川棕坪溪81,                                             无功功率Q, 13,                      Subnet13,Output03.txt,     2
+1,     611,  501,                  XN-GEN川棕坪溪82,                                             有功功率P, 13,                      Subnet13,Output03.txt,     3
+1,     612,  501,                  XN-GEN川棕坪溪82,                                             无功功率Q, 13,                      Subnet13,Output03.txt,     4
+1,     613,  501,                  XN-GEN川棕坪溪83,                                             有功功率P, 13,                      Subnet13,Output03.txt,     5
+1,     614,  501,                  XN-GEN川棕坪溪83,                                             无功功率Q, 13,                      Subnet13,Output03.txt,     6
+1,     615,  501,                  XN-GEN川泸定#01,                                             有功功率P,  2,                       Subnet2,Output01.txt,     9
+1,     616,  501,                  XN-GEN川泸定#01,                                             无功功率Q,  2,                       Subnet2,Output01.txt,    10
+1,     617,  501,                  XN-GEN川泸定#02,                                             有功功率P,  2,                       Subnet2,Output02.txt,     1
+1,     618,  501,                  XN-GEN川泸定#02,                                             无功功率Q,  2,                       Subnet2,Output02.txt,     2
+1,     619,  501,                   XN-GEN川硗碛#1,                                             有功功率P, 11,                      Subnet11,Output01.txt,     3
+1,     620,  501,                   XN-GEN川硗碛#1,                                             无功功率Q, 11,                      Subnet11,Output01.txt,     4
+1,     621,  501,                   XN-GEN川硗碛#2,                                             有功功率P, 11,                      Subnet11,Output01.txt,     5
+1,     622,  501,                   XN-GEN川硗碛#2,                                             无功功率Q, 11,                      Subnet11,Output01.txt,     6
+1,     623,  501,                  XN-GEN川窦团#01,                                             有功功率P, 33,                      Subnet33,Output01.txt,     3
+1,     624,  501,                  XN-GEN川窦团#01,                                             无功功率Q, 33,                      Subnet33,Output01.txt,     4
+1,     625,  501,                  XN-GEN川窦团#02,                                             有功功率P, 33,                      Subnet33,Output01.txt,     5
+1,     626,  501,                  XN-GEN川窦团#02,                                             无功功率Q, 33,                      Subnet33,Output01.txt,     6
+1,     627,  501,                   XN-GEN渝安稳81,                                             有功功率P, 25,                      Subnet25,Output01.txt,     9
+1,     628,  501,                   XN-GEN渝安稳81,                                             无功功率Q, 25,                      Subnet25,Output01.txt,    10
+1,     629,  501,                   XN-GEN渝白鹤81,                                             有功功率P, 22,                      Subnet22,Output03.txt,     5
+1,     630,  501,                   XN-GEN渝白鹤81,                                             无功功率Q, 22,                      Subnet22,Output03.txt,     6
+1,     631,  501,                 XN-GEN渝北渡电厂81,                                             有功功率P, 38,                      Subnet38,Output04.txt,     9
+1,     632,  501,                 XN-GEN渝北渡电厂81,                                             无功功率Q, 38,                      Subnet38,Output04.txt,    10
+1,     633,  501,                 XN-GEN渝草街电站81,                                             有功功率P, 31,                      Subnet31,Output03.txt,     7
+1,     634,  501,                 XN-GEN渝草街电站81,                                             无功功率Q, 31,                      Subnet31,Output03.txt,     8
+1,     635,  501,                 XN-GEN渝草街电站82,                                             有功功率P, 31,                      Subnet31,Output03.txt,     9
+1,     636,  501,                 XN-GEN渝草街电站82,                                             无功功率Q, 31,                      Subnet31,Output03.txt,    10
+1,     637,  501,                 XN-GEN渝草街电站83,                                             有功功率P, 31,                      Subnet31,Output04.txt,     1
+1,     638,  501,                 XN-GEN渝草街电站83,                                             无功功率Q, 31,                      Subnet31,Output04.txt,     2
+1,     639,  501,                  XN-GEN渝渡口坝81,                                             有功功率P, 25,                      Subnet25,Output02.txt,     1
+1,     640,  501,                  XN-GEN渝渡口坝81,                                             无功功率Q, 25,                      Subnet25,Output02.txt,     2
+1,     641,  501,                 XN-GEN渝恒泰电厂81,                                             有功功率P, 15,                      Subnet15,Output01.txt,     5
+1,     642,  501,                 XN-GEN渝恒泰电厂81,                                             无功功率Q, 15,                      Subnet15,Output01.txt,     6
+1,     643,  501,                   XN-GEN渝江口81,                                             有功功率P, 23,                      Subnet23,Output01.txt,     3
+1,     644,  501,                   XN-GEN渝江口81,                                             无功功率Q, 23,                      Subnet23,Output01.txt,     4
+1,     645,  501,                   XN-GEN渝江口82,                                             有功功率P, 23,                      Subnet23,Output01.txt,     5
+1,     646,  501,                   XN-GEN渝江口82,                                             无功功率Q, 23,                      Subnet23,Output01.txt,     6
+1,     647,  501,                   XN-GEN渝江口83,                                             有功功率P, 23,                      Subnet23,Output01.txt,     7
+1,     648,  501,                   XN-GEN渝江口83,                                             无功功率Q, 23,                      Subnet23,Output01.txt,     8
+1,     649,  501,                 XN-GEN渝彭水电厂81,                                             有功功率P,  9,                       Subnet9,Output02.txt,     1
+1,     650,  501,                 XN-GEN渝彭水电厂81,                                             无功功率Q,  9,                       Subnet9,Output02.txt,     2
+1,     651,  501,                 XN-GEN渝彭水电厂82,                                             有功功率P,  9,                       Subnet9,Output02.txt,     3
+1,     652,  501,                 XN-GEN渝彭水电厂82,                                             无功功率Q,  9,                       Subnet9,Output02.txt,     4
+1,     653,  501,                XN-GEN渝冉家坝电站81,                                             有功功率P, 17,                      Subnet17,Output01.txt,     9
+1,     654,  501,                XN-GEN渝冉家坝电站81,                                             无功功率Q, 17,                      Subnet17,Output01.txt,    10
+1,     655,  501,                 XN-GEN渝双槐电厂81,                                             有功功率P, 33,                      Subnet33,Output02.txt,     3
+1,     656,  501,                 XN-GEN渝双槐电厂81,                                             无功功率Q, 33,                      Subnet33,Output02.txt,     4
+1,     657,  501,                 XN-GEN渝双槐二期81,                                             有功功率P, 33,                      Subnet33,Output02.txt,     5
+1,     658,  501,                 XN-GEN渝双槐二期81,                                             无功功率Q, 33,                      Subnet33,Output02.txt,     6
+1,     659,  501,                 XN-GEN渝银盘电站81,                                             有功功率P, 10,                      Subnet10,Output03.txt,     5
+1,     660,  501,                 XN-GEN渝银盘电站81,                                             无功功率Q, 10,                      Subnet10,Output03.txt,     6
+1,     661,  501,                 XN-GEN渝银盘电站82,                                             有功功率P, 10,                      Subnet10,Output03.txt,     7
+1,     662,  501,                 XN-GEN渝银盘电站82,                                             无功功率Q, 10,                      Subnet10,Output03.txt,     8
+1,     663,  501,                 XN-GEN渝银盘电站83,                                             有功功率P, 10,                      Subnet10,Output03.txt,     9
+1,     664,  501,                 XN-GEN渝银盘电站83,                                             无功功率Q, 10,                      Subnet10,Output03.txt,    10
+1,     665,  501,                 XN-GEN渝珞璜三期81,                                             有功功率P, 19,                      Subnet19,Output02.txt,     9
+1,     666,  501,                 XN-GEN渝珞璜三期81,                                             无功功率Q, 19,                      Subnet19,Output02.txt,    10
+1,667, 8012,     XZ_小电阻有效值计算的功率（逆变网侧）-2365,                         逆变a相电压(XZ_1-60-RMSPHA-12),1,Subnet1,UDMOUTPUT0001.TXT,1
+1,668, 8012,     XZ_小电阻有效值计算的功率（逆变网侧）-2365,                     溪浙直流逆变三相有功(XZ_1-60-ADDSUB-37),1,Subnet1,UDMOUTPUT0001.TXT,2
+1,669, 8012,     XZ_小电阻有效值计算的功率（逆变网侧）-2365,                   溪浙直流逆变接口三相无功(XZ_1-60-ADDSUB-38),1,Subnet1,UDMOUTPUT0001.TXT,3
+1,670, 8012,XZ_小电阻有效值计算的功率（溪浙直流逆变侧本身）-2420,                         逆变a相电压(XZ_1-67-RMSPHA-12),1,Subnet1,UDMOUTPUT0001.TXT,4
+1,671, 8012,XZ_小电阻有效值计算的功率（溪浙直流逆变侧本身）-2420,                     溪浙直流逆变三相有功(XZ_1-67-ADDSUB-37),1,Subnet1,UDMOUTPUT0001.TXT,5
+1,672, 8012,XZ_小电阻有效值计算的功率（溪浙直流逆变侧本身）-2420,                   溪浙直流逆变接口三相无功(XZ_1-67-ADDSUB-38),1,Subnet1,UDMOUTPUT0001.TXT,6
+1,673, 8012, XZ_小电阻有效值计算的功率（溪浙逆变侧滤波器）-2421,                         逆变a相电压(XZ_1-68-RMSPHA-12),1,Subnet1,UDMOUTPUT0001.TXT,7
+1,674, 8012, XZ_小电阻有效值计算的功率（溪浙逆变侧滤波器）-2421,                     溪浙直流逆变三相有功(XZ_1-68-ADDSUB-37),1,Subnet1,UDMOUTPUT0001.TXT,8
+1,675, 8012, XZ_小电阻有效值计算的功率（溪浙逆变侧滤波器）-2421,                   溪浙直流逆变接口三相无功(XZ_1-68-ADDSUB-38),1,Subnet1,UDMOUTPUT0001.TXT,9
+1,676, 8012, XZ_小电阻有效值计算的功率（溪浙整流侧滤波器）-2440,                         逆变a相电压(XZ_1-76-RMSPHA-12),1,Subnet1,UDMOUTPUT0001.TXT,10
+1,677, 8012, XZ_小电阻有效值计算的功率（溪浙整流侧滤波器）-2440,                     溪浙直流整流三相有功(XZ_1-76-ADDSUB-37),1,Subnet1,UDMOUTPUT0002.TXT,1
+1,678, 8012, XZ_小电阻有效值计算的功率（溪浙整流侧滤波器）-2440,                   溪浙直流整流接口三相无功(XZ_1-76-ADDSUB-38),1,Subnet1,UDMOUTPUT0002.TXT,2
+1,679, 8012,XZ_小电阻有效值计算的功率（溪浙直流整流侧本身）-2442,                         逆变a相电压(XZ_1-78-RMSPHA-12),1,Subnet1,UDMOUTPUT0002.TXT,3
+1,680, 8012,XZ_小电阻有效值计算的功率（溪浙直流整流侧本身）-2442,                     溪浙直流整流三相有功(XZ_1-78-ADDSUB-37),1,Subnet1,UDMOUTPUT0002.TXT,4
+1,681, 8012,XZ_小电阻有效值计算的功率（溪浙直流整流侧本身）-2442,                   溪浙直流整流接口三相无功(XZ_1-78-ADDSUB-38),1,Subnet1,UDMOUTPUT0002.TXT,5
+1,682, 8012,     XZ_小电阻有效值计算的功率（整流网侧）-2443,                         逆变a相电压(XZ_1-79-RMSPHA-12),1,Subnet1,UDMOUTPUT0002.TXT,6
+1,683, 8012,     XZ_小电阻有效值计算的功率（整流网侧）-2443,                     溪浙直流整流三相有功(XZ_1-79-ADDSUB-37),1,Subnet1,UDMOUTPUT0002.TXT,7
+1,684, 8012,     XZ_小电阻有效值计算的功率（整流网侧）-2443,                   溪浙直流整流接口三相无功(XZ_1-79-ADDSUB-38),1,Subnet1,UDMOUTPUT0002.TXT,8
+1,685, 8012, fufeng_小电阻有效值计算的功率(逆变网侧)-2365,                     逆变a相电压(fufeng_1-60-RMSPHA-12),1,Subnet1,UDMOUTPUT0002.TXT,9
+1,686, 8012, fufeng_小电阻有效值计算的功率(逆变网侧)-2365,                 复奉直流逆变三相有功(fufeng_1-60-ADDSUB-37),1,Subnet1,UDMOUTPUT0002.TXT,10
+1,687, 8012, fufeng_小电阻有效值计算的功率(逆变网侧)-2365,               复奉直流逆变接口三相无功(fufeng_1-60-ADDSUB-38),1,Subnet1,UDMOUTPUT0003.TXT,1
+1,688, 8012,fufeng_小电阻有效值计算的功率（复奉直流逆变侧本身）-2420,                     逆变a相电压(fufeng_1-67-RMSPHA-12),1,Subnet1,UDMOUTPUT0003.TXT,2
+1,689, 8012,fufeng_小电阻有效值计算的功率（复奉直流逆变侧本身）-2420,                 复奉直流逆变三相有功(fufeng_1-67-ADDSUB-37),1,Subnet1,UDMOUTPUT0003.TXT,3
+1,690, 8012,fufeng_小电阻有效值计算的功率（复奉直流逆变侧本身）-2420,               复奉直流逆变接口三相无功(fufeng_1-67-ADDSUB-38),1,Subnet1,UDMOUTPUT0003.TXT,4
+1,691, 8012,fufeng_小电阻有效值计算的功率（复奉逆变侧滤波器）-2421,                     逆变a相电压(fufeng_1-68-RMSPHA-12),1,Subnet1,UDMOUTPUT0003.TXT,5
+1,692, 8012,fufeng_小电阻有效值计算的功率（复奉逆变侧滤波器）-2421,                 复奉直流逆变三相有功(fufeng_1-68-ADDSUB-37),1,Subnet1,UDMOUTPUT0003.TXT,6
+1,693, 8012,fufeng_小电阻有效值计算的功率（复奉逆变侧滤波器）-2421,               复奉直流逆变接口三相无功(fufeng_1-68-ADDSUB-38),1,Subnet1,UDMOUTPUT0003.TXT,7
+1,694, 8012,fufeng_小电阻有效值计算的功率（复奉整流侧滤波器）-2440,                     逆变a相电压(fufeng_1-76-RMSPHA-12),1,Subnet1,UDMOUTPUT0003.TXT,8
+1,695, 8012,fufeng_小电阻有效值计算的功率（复奉整流侧滤波器）-2440,                 复奉直流逆变三相有功(fufeng_1-76-ADDSUB-37),1,Subnet1,UDMOUTPUT0003.TXT,9
+1,696, 8012,fufeng_小电阻有效值计算的功率（复奉整流侧滤波器）-2440,               复奉直流逆变接口三相无功(fufeng_1-76-ADDSUB-38),1,Subnet1,UDMOUTPUT0003.TXT,10
+1,697, 8012,fufeng_小电阻有效值计算的功率（复奉直流整流侧本身）-2441,                     逆变a相电压(fufeng_1-77-RMSPHA-12),1,Subnet1,UDMOUTPUT0004.TXT,1
+1,698, 8012,fufeng_小电阻有效值计算的功率（复奉直流整流侧本身）-2441,                 复奉直流整流三相有功(fufeng_1-77-ADDSUB-37),1,Subnet1,UDMOUTPUT0004.TXT,2
+1,699, 8012,fufeng_小电阻有效值计算的功率（复奉直流整流侧本身）-2441,               复奉直流整流接口三相无功(fufeng_1-77-ADDSUB-38),1,Subnet1,UDMOUTPUT0004.TXT,3
+1,700, 8012, fufeng_小电阻有效值计算的功率(整流网侧)-2442,                     逆变a相电压(fufeng_1-78-RMSPHA-12),1,Subnet1,UDMOUTPUT0004.TXT,4
+1,701, 8012, fufeng_小电阻有效值计算的功率(整流网侧)-2442,                 复奉直流整流三相有功(fufeng_1-78-ADDSUB-37),1,Subnet1,UDMOUTPUT0004.TXT,5
+1,702, 8012, fufeng_小电阻有效值计算的功率(整流网侧)-2442,               复奉直流整流接口三相无功(fufeng_1-78-ADDSUB-38),1,Subnet1,UDMOUTPUT0004.TXT,6
+1,703, 8012,  yihua_小电阻有效值计算的功率（逆变网侧）-2381,                      逆变a相电压(yihua_1-61-RMSPHA-12),34,Subnet34,UDMOUTPUT0001.TXT,1
+1,704, 8012,  yihua_小电阻有效值计算的功率（逆变网侧）-2381,                  宜华直流逆变三相有功(yihua_1-61-ADDSUB-37),34,Subnet34,UDMOUTPUT0001.TXT,2
+1,705, 8012,  yihua_小电阻有效值计算的功率（逆变网侧）-2381,                宜华直流逆变接口三相无功(yihua_1-61-ADDSUB-38),34,Subnet34,UDMOUTPUT0001.TXT,3
+1,706, 8012,yihua_小电阻有效值计算的功率(宜华直流逆变侧自身)-2416,                      逆变a相电压(yihua_1-63-RMSPHA-12),34,Subnet34,UDMOUTPUT0001.TXT,4
+1,707, 8012,yihua_小电阻有效值计算的功率(宜华直流逆变侧自身)-2416,                  宜华直流逆变三相有功(yihua_1-63-ADDSUB-37),34,Subnet34,UDMOUTPUT0001.TXT,5
+1,708, 8012,yihua_小电阻有效值计算的功率(宜华直流逆变侧自身)-2416,                宜华直流逆变接口三相无功(yihua_1-63-ADDSUB-38),34,Subnet34,UDMOUTPUT0001.TXT,6
+1,709, 8012,yihua_小电阻有效值计算的功率(宜华逆变侧滤波器)-2417,                      逆变a相电压(yihua_1-64-RMSPHA-12),34,Subnet34,UDMOUTPUT0001.TXT,7
+1,710, 8012,yihua_小电阻有效值计算的功率(宜华逆变侧滤波器)-2417,                  宜华直流逆变三相有功(yihua_1-64-ADDSUB-37),34,Subnet34,UDMOUTPUT0001.TXT,8
+1,711, 8012,yihua_小电阻有效值计算的功率(宜华逆变侧滤波器)-2417,                宜华直流逆变接口三相无功(yihua_1-64-ADDSUB-38),34,Subnet34,UDMOUTPUT0001.TXT,9
+1,712, 8012,yihua_小电阻有效值计算的功率(宜华直流整流侧自身)-2422,                      逆变a相电压(yihua_1-69-RMSPHA-12),34,Subnet34,UDMOUTPUT0001.TXT,10
+1,713, 8012,yihua_小电阻有效值计算的功率(宜华直流整流侧自身)-2422,                  宜华直流整流三相有功(yihua_1-69-ADDSUB-37),34,Subnet34,UDMOUTPUT0002.TXT,1
+1,714, 8012,yihua_小电阻有效值计算的功率(宜华直流整流侧自身)-2422,                宜华直流整流接口三相无功(yihua_1-69-ADDSUB-38),34,Subnet34,UDMOUTPUT0002.TXT,2
+1,715, 8012,  yihua_小电阻有效值计算的功率（整流网侧）-2440,                      逆变a相电压(yihua_1-76-RMSPHA-12),34,Subnet34,UDMOUTPUT0002.TXT,3
+1,716, 8012,  yihua_小电阻有效值计算的功率（整流网侧）-2440,                  宜华直流整流三相有功(yihua_1-76-ADDSUB-37),34,Subnet34,UDMOUTPUT0002.TXT,4
+1,717, 8012,  yihua_小电阻有效值计算的功率（整流网侧）-2440,                宜华直流整流接口三相无功(yihua_1-76-ADDSUB-38),34,Subnet34,UDMOUTPUT0002.TXT,5
+1,718, 8012,yihua_小电阻有效值计算的功率(宜华整流侧滤波器)-2441,                      逆变a相电压(yihua_1-77-RMSPHA-12),34,Subnet34,UDMOUTPUT0002.TXT,6
+1,719, 8012,yihua_小电阻有效值计算的功率(宜华整流侧滤波器)-2441,                  宜华直流整流三相有功(yihua_1-77-ADDSUB-37),34,Subnet34,UDMOUTPUT0002.TXT,7
+1,720, 8012,yihua_小电阻有效值计算的功率(宜华整流侧滤波器)-2441,                宜华直流整流接口三相无功(yihua_1-77-ADDSUB-38),34,Subnet34,UDMOUTPUT0002.TXT,8
+1,721, 8012,JS-jinsu_小电阻有效值计算的功率（逆变网侧）-2365,                   逆变a相电压(JS-jinsu_1-60-RMSPHA-12),7,Subnet7,UDMOUTPUT0001.TXT,1
+1,722, 8012,JS-jinsu_小电阻有效值计算的功率（逆变网侧）-2365,               锦苏直流逆变三相有功(JS-jinsu_1-60-ADDSUB-37),7,Subnet7,UDMOUTPUT0001.TXT,2
+1,723, 8012,JS-jinsu_小电阻有效值计算的功率（逆变网侧）-2365,             锦苏直流逆变接口三相无功(JS-jinsu_1-60-ADDSUB-38),7,Subnet7,UDMOUTPUT0001.TXT,3
+1,724, 8012,JS-jinsu_小电阻有效值计算的功率（锦苏直流逆变侧本身）-2420,                   逆变a相电压(JS-jinsu_1-67-RMSPHA-12),7,Subnet7,UDMOUTPUT0001.TXT,4
+1,725, 8012,JS-jinsu_小电阻有效值计算的功率（锦苏直流逆变侧本身）-2420,               锦苏直流逆变三相有功(JS-jinsu_1-67-ADDSUB-37),7,Subnet7,UDMOUTPUT0001.TXT,5
+1,726, 8012,JS-jinsu_小电阻有效值计算的功率（锦苏直流逆变侧本身）-2420,             锦苏直流逆变接口三相无功(JS-jinsu_1-67-ADDSUB-38),7,Subnet7,UDMOUTPUT0001.TXT,6
+1,727, 8012,JS-jinsu_小电阻有效值计算的功率（锦苏逆变侧滤波器）-2421,                   逆变a相电压(JS-jinsu_1-68-RMSPHA-12),7,Subnet7,UDMOUTPUT0001.TXT,7
+1,728, 8012,JS-jinsu_小电阻有效值计算的功率（锦苏逆变侧滤波器）-2421,               锦苏直流逆变三相有功(JS-jinsu_1-68-ADDSUB-37),7,Subnet7,UDMOUTPUT0001.TXT,8
+1,729, 8012,JS-jinsu_小电阻有效值计算的功率（锦苏逆变侧滤波器）-2421,             锦苏直流逆变接口三相无功(JS-jinsu_1-68-ADDSUB-38),7,Subnet7,UDMOUTPUT0001.TXT,9
+1,730, 8012,JS-jinsu_小电阻有效值计算的功率（整流网侧）-2441,                   逆变a相电压(JS-jinsu_1-77-RMSPHA-12),7,Subnet7,UDMOUTPUT0001.TXT,10
+1,731, 8012,JS-jinsu_小电阻有效值计算的功率（整流网侧）-2441,               锦苏直流整流三相有功(JS-jinsu_1-77-ADDSUB-37),7,Subnet7,UDMOUTPUT0002.TXT,1
+1,732, 8012,JS-jinsu_小电阻有效值计算的功率（整流网侧）-2441,             锦苏直流整流接口三相无功(JS-jinsu_1-77-ADDSUB-38),7,Subnet7,UDMOUTPUT0002.TXT,2
+1,733, 8012,JS-jinsu_小电阻有效值计算的功率（锦苏直流整流侧本身）-2442,                   逆变a相电压(JS-jinsu_1-78-RMSPHA-12),7,Subnet7,UDMOUTPUT0002.TXT,3
+1,734, 8012,JS-jinsu_小电阻有效值计算的功率（锦苏直流整流侧本身）-2442,               锦苏直流整流三相有功(JS-jinsu_1-78-ADDSUB-37),7,Subnet7,UDMOUTPUT0002.TXT,4
+1,735, 8012,JS-jinsu_小电阻有效值计算的功率（锦苏直流整流侧本身）-2442,             锦苏直流整流接口三相无功(JS-jinsu_1-78-ADDSUB-38),7,Subnet7,UDMOUTPUT0002.TXT,5
+1,736, 8012,JS-jinsu_小电阻有效值计算的功率（锦苏整流侧滤波器）-2444,                   逆变a相电压(JS-jinsu_1-80-RMSPHA-12),7,Subnet7,UDMOUTPUT0002.TXT,6
+1,737, 8012,JS-jinsu_小电阻有效值计算的功率（锦苏整流侧滤波器）-2444,               锦苏直流整流三相有功(JS-jinsu_1-80-ADDSUB-37),7,Subnet7,UDMOUTPUT0002.TXT,7
+1,738, 8012,JS-jinsu_小电阻有效值计算的功率（锦苏整流侧滤波器）-2444,             锦苏直流整流接口三相无功(JS-jinsu_1-80-ADDSUB-38),7,Subnet7,UDMOUTPUT0002.TXT,8
+1,739, 8012,LZ-longzheng_小电阻有效值计算的功率(逆变网侧)-2381,               逆变a相电压(LZ-longzheng_1-61-RMSPHA-12),32,Subnet32,UDMOUTPUT0001.TXT,1
+1,740, 8012,LZ-longzheng_小电阻有效值计算的功率(逆变网侧)-2381,           龙政直流逆变三相有功(LZ-longzheng_1-61-ADDSUB-37),32,Subnet32,UDMOUTPUT0001.TXT,2
+1,741, 8012,LZ-longzheng_小电阻有效值计算的功率(逆变网侧)-2381,         龙政直流逆变接口三相无功(LZ-longzheng_1-61-ADDSUB-38),32,Subnet32,UDMOUTPUT0001.TXT,3
+1,742, 8012,LZ-longzheng_小电阻有效值计算的功率(龙政直流逆变侧自身)-2416,               逆变a相电压(LZ-longzheng_1-63-RMSPHA-12),32,Subnet32,UDMOUTPUT0001.TXT,4
+1,743, 8012,LZ-longzheng_小电阻有效值计算的功率(龙政直流逆变侧自身)-2416,           龙政直流逆变三相有功(LZ-longzheng_1-63-ADDSUB-37),32,Subnet32,UDMOUTPUT0001.TXT,5
+1,744, 8012,LZ-longzheng_小电阻有效值计算的功率(龙政直流逆变侧自身)-2416,         龙政直流逆变接口三相无功(LZ-longzheng_1-63-ADDSUB-38),32,Subnet32,UDMOUTPUT0001.TXT,6
+1,745, 8012,LZ-longzheng_小电阻有效值计算的功率(龙政逆变侧滤波器)-2417,               逆变a相电压(LZ-longzheng_1-64-RMSPHA-12),32,Subnet32,UDMOUTPUT0001.TXT,7
+1,746, 8012,LZ-longzheng_小电阻有效值计算的功率(龙政逆变侧滤波器)-2417,           龙政直流逆变三相有功(LZ-longzheng_1-64-ADDSUB-37),32,Subnet32,UDMOUTPUT0001.TXT,8
+1,747, 8012,LZ-longzheng_小电阻有效值计算的功率(龙政逆变侧滤波器)-2417,         龙政直流逆变接口三相无功(LZ-longzheng_1-64-ADDSUB-38),32,Subnet32,UDMOUTPUT0001.TXT,9
+1,748, 8012,LZ-longzheng_小电阻有效值计算的功率(龙政直流整流侧自身)-2422,               逆变a相电压(LZ-longzheng_1-69-RMSPHA-12),32,Subnet32,UDMOUTPUT0001.TXT,10
+1,749, 8012,LZ-longzheng_小电阻有效值计算的功率(龙政直流整流侧自身)-2422,           龙政直流整流三相有功(LZ-longzheng_1-69-ADDSUB-37),32,Subnet32,UDMOUTPUT0002.TXT,1
+1,750, 8012,LZ-longzheng_小电阻有效值计算的功率(龙政直流整流侧自身)-2422,         龙政直流整流接口三相无功(LZ-longzheng_1-69-ADDSUB-38),32,Subnet32,UDMOUTPUT0002.TXT,2
+1,751, 8012,LZ-longzheng_小电阻有效值计算的功率(整流网侧)-2440,               逆变a相电压(LZ-longzheng_1-76-RMSPHA-12),32,Subnet32,UDMOUTPUT0002.TXT,3
+1,752, 8012,LZ-longzheng_小电阻有效值计算的功率(整流网侧)-2440,           龙政直流整流三相有功(LZ-longzheng_1-76-ADDSUB-37),32,Subnet32,UDMOUTPUT0002.TXT,4
+1,753, 8012,LZ-longzheng_小电阻有效值计算的功率(整流网侧)-2440,         龙政直流整流接口三相无功(LZ-longzheng_1-76-ADDSUB-38),32,Subnet32,UDMOUTPUT0002.TXT,5
+1,754, 8012,LZ-longzheng_小电阻有效值计算的功率(龙政整流侧滤波器)-2441,               逆变a相电压(LZ-longzheng_1-77-RMSPHA-12),32,Subnet32,UDMOUTPUT0002.TXT,6
+1,755, 8012,LZ-longzheng_小电阻有效值计算的功率(龙政整流侧滤波器)-2441,           龙政直流整流三相有功(LZ-longzheng_1-77-ADDSUB-37),32,Subnet32,UDMOUTPUT0002.TXT,7
+1,756, 8012,LZ-longzheng_小电阻有效值计算的功率(龙政整流侧滤波器)-2441,         龙政直流整流接口三相无功(LZ-longzheng_1-77-ADDSUB-38),32,Subnet32,UDMOUTPUT0002.TXT,8
+1,757, 8012,GN-genan_小电阻有效值计算的功率（逆变网侧）-2382,                   逆变a相电压(GN-genan_1-62-RMSPHA-12),6,Subnet6,UDMOUTPUT0001.TXT,1
+1,758, 8012,GN-genan_小电阻有效值计算的功率（逆变网侧）-2382,               葛南直流逆变三相有功(GN-genan_1-62-ADDSUB-37),6,Subnet6,UDMOUTPUT0001.TXT,2
+1,759, 8012,GN-genan_小电阻有效值计算的功率（逆变网侧）-2382,             葛南直流逆变接口三相无功(GN-genan_1-62-ADDSUB-38),6,Subnet6,UDMOUTPUT0001.TXT,3
+1,760, 8012,GN-genan_小电阻有效值计算的功率（葛南直流逆变侧本身）-2418,                   逆变a相电压(GN-genan_1-65-RMSPHA-12),6,Subnet6,UDMOUTPUT0001.TXT,4
+1,761, 8012,GN-genan_小电阻有效值计算的功率（葛南直流逆变侧本身）-2418,               葛南直流逆变三相有功(GN-genan_1-65-ADDSUB-37),6,Subnet6,UDMOUTPUT0001.TXT,5
+1,762, 8012,GN-genan_小电阻有效值计算的功率（葛南直流逆变侧本身）-2418,             葛南直流逆变接口三相无功(GN-genan_1-65-ADDSUB-38),6,Subnet6,UDMOUTPUT0001.TXT,6
+1,763, 8012,GN-genan_小电阻有效值计算的功率（葛南逆变侧滤波器）-2419,                   逆变a相电压(GN-genan_1-66-RMSPHA-12),6,Subnet6,UDMOUTPUT0001.TXT,7
+1,764, 8012,GN-genan_小电阻有效值计算的功率（葛南逆变侧滤波器）-2419,               葛南直流逆变三相有功(GN-genan_1-66-ADDSUB-37),6,Subnet6,UDMOUTPUT0001.TXT,8
+1,765, 8012,GN-genan_小电阻有效值计算的功率（葛南逆变侧滤波器）-2419,             葛南直流逆变接口三相无功(GN-genan_1-66-ADDSUB-38),6,Subnet6,UDMOUTPUT0001.TXT,9
+1,766, 8012,GN-genan_小电阻有效值计算的功率（葛南直流整流侧本身）-2425,                   逆变a相电压(GN-genan_1-70-RMSPHA-12),6,Subnet6,UDMOUTPUT0001.TXT,10
+1,767, 8012,GN-genan_小电阻有效值计算的功率（葛南直流整流侧本身）-2425,               葛南直流整流三相有功(GN-genan_1-70-ADDSUB-37),6,Subnet6,UDMOUTPUT0002.TXT,1
+1,768, 8012,GN-genan_小电阻有效值计算的功率（葛南直流整流侧本身）-2425,             葛南直流整流接口三相无功(GN-genan_1-70-ADDSUB-38),6,Subnet6,UDMOUTPUT0002.TXT,2
+1,769, 8012,GN-genan_小电阻有效值计算的功率（整流网侧）-2442,                   逆变a相电压(GN-genan_1-76-RMSPHA-12),6,Subnet6,UDMOUTPUT0002.TXT,3
+1,770, 8012,GN-genan_小电阻有效值计算的功率（整流网侧）-2442,               葛南直流整流三相有功(GN-genan_1-76-ADDSUB-37),6,Subnet6,UDMOUTPUT0002.TXT,4
+1,771, 8012,GN-genan_小电阻有效值计算的功率（整流网侧）-2442,             葛南直流整流接口三相无功(GN-genan_1-76-ADDSUB-38),6,Subnet6,UDMOUTPUT0002.TXT,5
+1,772, 8012,GN-genan_小电阻有效值计算的功率（葛南整流侧滤波器）-2443,                   逆变a相电压(GN-genan_1-77-RMSPHA-12),6,Subnet6,UDMOUTPUT0002.TXT,6
+1,773, 8012,GN-genan_小电阻有效值计算的功率（葛南整流侧滤波器）-2443,               葛南直流整流三相有功(GN-genan_1-77-ADDSUB-37),6,Subnet6,UDMOUTPUT0002.TXT,7
+1,774, 8012,GN-genan_小电阻有效值计算的功率（葛南整流侧滤波器）-2443,             葛南直流整流接口三相无功(GN-genan_1-77-ADDSUB-38),6,Subnet6,UDMOUTPUT0002.TXT,8
+1,775, 8012,1-lingfeng_小电阻有效值计算的功率（逆变网侧）-2381,                 逆变a相电压(1-lingfeng_1-61-RMSPHA-12),5,Subnet5,UDMOUTPUT0001.TXT,1
+1,776, 8012,1-lingfeng_小电阻有效值计算的功率（逆变网侧）-2381,             林枫直流逆变三相有功(1-lingfeng_1-61-ADDSUB-37),5,Subnet5,UDMOUTPUT0001.TXT,2
+1,777, 8012,1-lingfeng_小电阻有效值计算的功率（逆变网侧）-2381,           林枫直流逆变接口三相无功(1-lingfeng_1-61-ADDSUB-38),5,Subnet5,UDMOUTPUT0001.TXT,3
+1,778, 8012,1-lingfeng_小电阻有效值计算的功率(林枫直流逆变侧自身)-2416,                 逆变a相电压(1-lingfeng_1-63-RMSPHA-12),5,Subnet5,UDMOUTPUT0001.TXT,4
+1,779, 8012,1-lingfeng_小电阻有效值计算的功率(林枫直流逆变侧自身)-2416,             林枫直流逆变三相有功(1-lingfeng_1-63-ADDSUB-37),5,Subnet5,UDMOUTPUT0001.TXT,5
+1,780, 8012,1-lingfeng_小电阻有效值计算的功率(林枫直流逆变侧自身)-2416,           林枫直流逆变接口三相无功(1-lingfeng_1-63-ADDSUB-38),5,Subnet5,UDMOUTPUT0001.TXT,6
+1,781, 8012,1-lingfeng_小电阻有效值计算的功率(林枫逆变侧滤波器)-2417,                 逆变a相电压(1-lingfeng_1-64-RMSPHA-12),5,Subnet5,UDMOUTPUT0001.TXT,7
+1,782, 8012,1-lingfeng_小电阻有效值计算的功率(林枫逆变侧滤波器)-2417,             林枫直流逆变三相有功(1-lingfeng_1-64-ADDSUB-37),5,Subnet5,UDMOUTPUT0001.TXT,8
+1,783, 8012,1-lingfeng_小电阻有效值计算的功率(林枫逆变侧滤波器)-2417,           林枫直流逆变接口三相无功(1-lingfeng_1-64-ADDSUB-38),5,Subnet5,UDMOUTPUT0001.TXT,9
+1,784, 8012,1-lingfeng_小电阻有效值计算的功率(林枫直流整流侧自身)-2422,                 逆变a相电压(1-lingfeng_1-69-RMSPHA-12),5,Subnet5,UDMOUTPUT0001.TXT,10
+1,785, 8012,1-lingfeng_小电阻有效值计算的功率(林枫直流整流侧自身)-2422,             林枫直流整流三相有功(1-lingfeng_1-69-ADDSUB-37),5,Subnet5,UDMOUTPUT0002.TXT,1
+1,786, 8012,1-lingfeng_小电阻有效值计算的功率(林枫直流整流侧自身)-2422,           林枫直流整流接口三相无功(1-lingfeng_1-69-ADDSUB-38),5,Subnet5,UDMOUTPUT0002.TXT,2
+1,787, 8012,1-lingfeng_小电阻有效值计算的功率（整流网侧）-2440,                 逆变a相电压(1-lingfeng_1-76-RMSPHA-12),5,Subnet5,UDMOUTPUT0002.TXT,3
+1,788, 8012,1-lingfeng_小电阻有效值计算的功率（整流网侧）-2440,             林枫直流整流三相有功(1-lingfeng_1-76-ADDSUB-37),5,Subnet5,UDMOUTPUT0002.TXT,4
+1,789, 8012,1-lingfeng_小电阻有效值计算的功率（整流网侧）-2440,           林枫直流整流接口三相无功(1-lingfeng_1-76-ADDSUB-38),5,Subnet5,UDMOUTPUT0002.TXT,5
+1,790, 8012,1-lingfeng_小电阻有效值计算的功率(林枫整流侧滤波器)-2441,                 逆变a相电压(1-lingfeng_1-77-RMSPHA-12),5,Subnet5,UDMOUTPUT0002.TXT,6
+1,791, 8012,1-lingfeng_小电阻有效值计算的功率(林枫整流侧滤波器)-2441,             林枫直流逆变三相有功(1-lingfeng_1-77-ADDSUB-37),5,Subnet5,UDMOUTPUT0002.TXT,7
+1,792, 8012,1-lingfeng_小电阻有效值计算的功率(林枫整流侧滤波器)-2441,           林枫直流逆变接口三相无功(1-lingfeng_1-77-ADDSUB-38),5,Subnet5,UDMOUTPUT0002.TXT,8
+1,793, 8012,JinHuai_JNDC_小电阻有效值计算的功率（逆变网侧）-2365,             晋南直流逆变接口三相无功(JinHuai_1-0-80-ADDSUB-1),2,Subnet2,UDMOUTPUT0001.TXT,1
+1,794, 8012,JinHuai_JNDC_小电阻有效值计算的功率（逆变网侧）-2365,               晋南直流逆变三相有功(JinHuai_1-0-80-ADDSUB-2),2,Subnet2,UDMOUTPUT0001.TXT,2
+1,795, 8012,JinHuai_JNDC_小电阻有效值计算的功率（逆变网侧）-2365,                  逆变a相电压(JinHuai_1-0-80-RMSPHA-27),2,Subnet2,UDMOUTPUT0001.TXT,3
+1,796, 8012,JinHuai_JNDC_小电阻有效值计算的功率（直流逆变侧本身）-2420,                  逆变a相电压(JinHuai_1-0-80-RMSPHA-12),2,Subnet2,UDMOUTPUT0001.TXT,4
+1,797, 8012,JinHuai_JNDC_小电阻有效值计算的功率（直流逆变侧本身）-2420,              晋南直流逆变三相有功(JinHuai_1-0-80-ADDSUB-36),2,Subnet2,UDMOUTPUT0001.TXT,5
+1,798, 8012,JinHuai_JNDC_小电阻有效值计算的功率（直流逆变侧本身）-2420,            晋南直流逆变接口三相无功(JinHuai_1-0-80-ADDSUB-37),2,Subnet2,UDMOUTPUT0001.TXT,6
+1,799, 8012,JinHuai_JNDC_小电阻有效值计算的功率（逆变侧滤波器）-2421,              晋南直流逆变三相有功(JinHuai_1-0-80-ADDSUB-20),2,Subnet2,UDMOUTPUT0001.TXT,7
+1,800, 8012,JinHuai_JNDC_小电阻有效值计算的功率（逆变侧滤波器）-2421,            晋南直流逆变接口三相无功(JinHuai_1-0-80-ADDSUB-29),2,Subnet2,UDMOUTPUT0001.TXT,8
+1,801, 8012,JinHuai_JNDC_小电阻有效值计算的功率（逆变侧滤波器）-2421,                  逆变a相电压(JinHuai_1-0-80-RMSPHA-30),2,Subnet2,UDMOUTPUT0001.TXT,9
+1,802, 8012,JinHuai_JNDC_小电阻有效值计算的功率（整流侧滤波器）-2440,                  逆变a相电压(JinHuai_1-0-80-RMSPHA-21),2,Subnet2,UDMOUTPUT0001.TXT,10
+1,803, 8012,JinHuai_JNDC_小电阻有效值计算的功率（整流侧滤波器）-2440,            晋南直流整流接口三相无功(JinHuai_1-0-80-ADDSUB-24),2,Subnet2,UDMOUTPUT0002.TXT,1
+1,804, 8012,JinHuai_JNDC_小电阻有效值计算的功率（直流整流侧本身）-2442,                 逆变a相电压(JinHuai_DC_1-78-RMSPHA-12),2,Subnet2,UDMOUTPUT0002.TXT,2
+1,805, 8012,JinHuai_JNDC_小电阻有效值计算的功率（直流整流侧本身）-2442,             晋南直流整流三相有功(JinHuai_DC_1-78-ADDSUB-37),2,Subnet2,UDMOUTPUT0002.TXT,3
+1,806, 8012,JinHuai_JNDC_小电阻有效值计算的功率（直流整流侧本身）-2442,           晋南直流整流接口三相无功(JinHuai_DC_1-78-ADDSUB-38),2,Subnet2,UDMOUTPUT0002.TXT,4
+1,807, 8012,JinHuai_JNDC_小电阻有效值计算的功率（整流网侧）-2443,             晋南直流整流接口三相无功(JinHuai_1-0-80-ADDSUB-3),2,Subnet2,UDMOUTPUT0002.TXT,5
+1,808, 8012,JinHuai_JNDC_小电阻有效值计算的功率（整流网侧）-2443,            晋南直流整流三相有功(JinHuai_1-0-80-ADDSUB-25_0),2,Subnet2,UDMOUTPUT0002.TXT,6
+1,809, 8012,JinHuai_JNDC_小电阻有效值计算的功率（整流网侧）-2443,                逆变a相电压(JinHuai_1-0-80-RMSPHA-30_0),2,Subnet2,UDMOUTPUT0002.TXT,7
+1,810, 8013,           XZ_整流侧交流母线正序电压-2441,                         正序电压(XZ_1-77-整流侧正序电压Vt-4),1,Subnet1,UDMOUTPUT0004.TXT,7
+1,811, 8013,           XZ_整流侧交流母线正序电压-2441,                              y(XZ_1-77-ADDSUB-10),1,Subnet1,UDMOUTPUT0004.TXT,8
+1,812, 8013,           XZ_逆变侧交流母线正序电压-2444,                         正序电压(XZ_1-80-逆变侧正序电压Vt-4),1,Subnet1,UDMOUTPUT0004.TXT,9
+1,813, 8013,           XZ_逆变侧交流母线正序电压-2444,                              y(XZ_1-80-ADDSUB-10),1,Subnet1,UDMOUTPUT0004.TXT,10
+1,814, 8013,       fufeng_整流侧交流母线正序电压-2445,                     正序电压(fufeng_1-81-整流侧正序电压Vt-7),1,Subnet1,UDMOUTPUT0005.TXT,1
+1,815, 8013,       fufeng_整流侧交流母线正序电压-2445,                          y(fufeng_1-81-ADDSUB-13),1,Subnet1,UDMOUTPUT0005.TXT,2
+1,816, 8013,       fufeng_逆变侧交流母线正序电压-2446,                     正序电压(fufeng_1-82-逆变侧正序电压Vt-4),1,Subnet1,UDMOUTPUT0005.TXT,3
+1,817, 8013,       fufeng_逆变侧交流母线正序电压-2446,                          y(fufeng_1-82-ADDSUB-10),1,Subnet1,UDMOUTPUT0005.TXT,4
+1,818, 8013,        yihua_逆变侧交流母线正序电压-2442,                      正序电压(yihua_1-78-逆变侧正序电压Vt-4),34,Subnet34,UDMOUTPUT0002.TXT,9
+1,819, 8013,        yihua_逆变侧交流母线正序电压-2442,                           y(yihua_1-78-ADDSUB-10),34,Subnet34,UDMOUTPUT0002.TXT,10
+1,820, 8013,        yihua_整流侧交流母线正序电压-2443,                      正序电压(yihua_1-79-整流侧正序电压Vt-4),34,Subnet34,UDMOUTPUT0003.TXT,1
+1,821, 8013,        yihua_整流侧交流母线正序电压-2443,                           y(yihua_1-79-ADDSUB-10),34,Subnet34,UDMOUTPUT0003.TXT,2
+1,822, 8013,     JS-jinsu_逆变侧交流母线正序电压-2440,                   正序电压(JS-jinsu_1-76-逆变侧正序电压Vt-4),7,Subnet7,UDMOUTPUT0002.TXT,9
+1,823, 8013,     JS-jinsu_逆变侧交流母线正序电压-2440,                        y(JS-jinsu_1-76-ADDSUB-10),7,Subnet7,UDMOUTPUT0002.TXT,10
+1,824, 8013,     JS-jinsu_整流侧交流母线正序电压-2443,                   正序电压(JS-jinsu_1-79-整流侧正序电压Vt-4),7,Subnet7,UDMOUTPUT0003.TXT,1
+1,825, 8013,     JS-jinsu_整流侧交流母线正序电压-2443,                        y(JS-jinsu_1-79-ADDSUB-10),7,Subnet7,UDMOUTPUT0003.TXT,2
+1,826, 8013, LZ-longzheng_整流侧交流母线正序电压-2442,               正序电压(LZ-longzheng_1-78-整流侧正序电压Vt-4),32,Subnet32,UDMOUTPUT0002.TXT,9
+1,827, 8013, LZ-longzheng_整流侧交流母线正序电压-2442,                    y(LZ-longzheng_1-78-ADDSUB-10),32,Subnet32,UDMOUTPUT0002.TXT,10
+1,828, 8013, LZ-longzheng_逆变侧交流母线正序电压-2443,               正序电压(LZ-longzheng_1-79-逆变侧正序电压Vt-4),32,Subnet32,UDMOUTPUT0003.TXT,1
+1,829, 8013, LZ-longzheng_逆变侧交流母线正序电压-2443,                    y(LZ-longzheng_1-79-ADDSUB-10),32,Subnet32,UDMOUTPUT0003.TXT,2
+1,830, 8013,     GN-genan_逆变侧交流母线正序电压-2444,                   正序电压(GN-genan_1-78-逆变侧正序电压Vt-4),6,Subnet6,UDMOUTPUT0002.TXT,9
+1,831, 8013,     GN-genan_逆变侧交流母线正序电压-2444,                        y(GN-genan_1-78-ADDSUB-10),6,Subnet6,UDMOUTPUT0002.TXT,10
+1,832, 8013,     GN-genan_整流侧交流母线正序电压-2445,                   正序电压(GN-genan_1-79-整流侧正序电压Vt-4),6,Subnet6,UDMOUTPUT0003.TXT,1
+1,833, 8013,     GN-genan_整流侧交流母线正序电压-2445,                        y(GN-genan_1-79-ADDSUB-10),6,Subnet6,UDMOUTPUT0003.TXT,2
+1,834, 8013,   1-lingfeng_整流侧交流母线正序电压-2442,                 正序电压(1-lingfeng_1-78-整流侧正序电压Vt-4),5,Subnet5,UDMOUTPUT0002.TXT,9
+1,835, 8013,   1-lingfeng_整流侧交流母线正序电压-2442,                      y(1-lingfeng_1-78-ADDSUB-10),5,Subnet5,UDMOUTPUT0002.TXT,10
+1,836, 8013,   1-lingfeng_逆变侧交流母线正序电压-2443,                 正序电压(1-lingfeng_1-79-逆变侧正序电压Vt-4),5,Subnet5,UDMOUTPUT0003.TXT,1
+1,837, 8013,   1-lingfeng_逆变侧交流母线正序电压-2443,                      y(1-lingfeng_1-79-ADDSUB-10),5,Subnet5,UDMOUTPUT0003.TXT,2
+1,838, 8013,   JinHuai_DC_整流侧交流母线正序电压-2441,                  正序电压(JinHuai_1-0-80-整流侧正序电压Vt-1),2,Subnet2,UDMOUTPUT0002.TXT,8
+1,839, 8013,   JinHuai_DC_整流侧交流母线正序电压-2441,                      y(JinHuai_1-0-80-ADDSUB-4_0),2,Subnet2,UDMOUTPUT0002.TXT,9
+1,840, 8013,   JinHuai_DC_逆变侧交流母线正序电压-2444,                  正序电压(JinHuai_1-0-80-逆变侧正序电压Vt-1),2,Subnet2,UDMOUTPUT0002.TXT,10
+1,841, 8013,   JinHuai_DC_逆变侧交流母线正序电压-2444,                      y(JinHuai_1-0-80-ADDSUB-7_1),2,Subnet2,UDMOUTPUT0003.TXT,1
+1,842, 8014,           1-75-CFPREV_BP1-228,                              y(2-0-75-19-×0.3-12),1,Subnet1,UDMOUTPUT0005.TXT,5
+1,843, 8014,           1-75-CFPREV_BP1-228,                               y(2-0-75-19-MUL-15),1,Subnet1,UDMOUTPUT0005.TXT,6
+1,844, 8014,           1-75-CFPREV_BP1-228,                               x1(2-0-75-19-OR-37),1,Subnet1,UDMOUTPUT0005.TXT,7
+1,845, 8014,           1-75-CFPREV_BP1-228,                            y(2-0-75-19-ADDSUB-20),1,Subnet1,UDMOUTPUT0005.TXT,8
+1,846, 8014,           1-75-CFPREV_BP1-228,                           x6(2-0-75-19-ADDSUB-20),1,Subnet1,UDMOUTPUT0005.TXT,9
+1,847, 8014,           1-75-CFPREV_BP1-228,                           x1(2-0-75-19-ADDSUB-31),1,Subnet1,UDMOUTPUT0005.TXT,10
+1,848, 8014,           1-75-CFPREV_BP1-228,                           x6(2-0-75-19-ADDSUB-31),1,Subnet1,UDMOUTPUT0006.TXT,1
+1,849, 8014,           1-75-CFPREV_BP1-228,                            y(2-0-75-19-ADDSUB-31),1,Subnet1,UDMOUTPUT0006.TXT,2
+1,850, 8014,           1-75-CFPREV_BP1-228,                              y(2-0-75-19-×0.2-33),1,Subnet1,UDMOUTPUT0006.TXT,3
+1,851, 8014,           1-75-CFPREV_BP1-228,                               x4(2-0-75-19-OR-37),1,Subnet1,UDMOUTPUT0006.TXT,4
+1,852, 8014,           1-75-CFPREV_BP1-228,                                y(2-0-75-19-OR-37),1,Subnet1,UDMOUTPUT0006.TXT,5
+1,853, 8014,           1-75-CFPREV_BP1-228,                           x1(2-0-75-19-ADDSUB-20),1,Subnet1,UDMOUTPUT0006.TXT,6
+1,854, 8014,           1-75-CFPREV_BP1-228,                               y(2-0-75-19-MUL-52),1,Subnet1,UDMOUTPUT0006.TXT,7
+1,855, 8014,           1-75-CFPREV_BP1-228,                              y(2-0-75-19-ACOS-55),1,Subnet1,UDMOUTPUT0006.TXT,8
+1,856, 8014,           1-75-CFPREV_BP1-228,                              y(2-0-75-19-×0.3-56),1,Subnet1,UDMOUTPUT0006.TXT,9
+1,857, 8014,           1-75-CFPREV_BP1-228,                              y(2-0-75-19-×0.3-57),1,Subnet1,UDMOUTPUT0006.TXT,10
+1,858, 8014,           1-75-CFPREV_BP1-228,                              y(2-0-75-19-ACOS-59),1,Subnet1,UDMOUTPUT0007.TXT,1
+1,859, 8014,           1-75-CFPREV_BP1-228,                               y(2-0-75-19-MAX-61),1,Subnet1,UDMOUTPUT0007.TXT,2
+1,860, 8014,           1-75-CFPREV_BP1-228,                               y(2-0-75-19-MUL-62),1,Subnet1,UDMOUTPUT0007.TXT,3
+1,861, 8014,           1-75-CFPREV_BP1-228,                               y(2-0-75-19-MUL-63),1,Subnet1,UDMOUTPUT0007.TXT,4
+1,862, 8014,           1-75-CFPREV_BP1-226,                              y(2-0-75-17-×0.3-12),1,Subnet1,UDMOUTPUT0007.TXT,5
+1,863, 8014,           1-75-CFPREV_BP1-226,                               y(2-0-75-17-MUL-15),1,Subnet1,UDMOUTPUT0007.TXT,6
+1,864, 8014,           1-75-CFPREV_BP1-226,                               x1(2-0-75-17-OR-37),1,Subnet1,UDMOUTPUT0007.TXT,7
+1,865, 8014,           1-75-CFPREV_BP1-226,                            y(2-0-75-17-ADDSUB-20),1,Subnet1,UDMOUTPUT0007.TXT,8
+1,866, 8014,           1-75-CFPREV_BP1-226,                           x6(2-0-75-17-ADDSUB-20),1,Subnet1,UDMOUTPUT0007.TXT,9
+1,867, 8014,           1-75-CFPREV_BP1-226,                           x1(2-0-75-17-ADDSUB-31),1,Subnet1,UDMOUTPUT0007.TXT,10
+1,868, 8014,           1-75-CFPREV_BP1-226,                           x6(2-0-75-17-ADDSUB-31),1,Subnet1,UDMOUTPUT0008.TXT,1
+1,869, 8014,           1-75-CFPREV_BP1-226,                            y(2-0-75-17-ADDSUB-31),1,Subnet1,UDMOUTPUT0008.TXT,2
+1,870, 8014,           1-75-CFPREV_BP1-226,                              y(2-0-75-17-×0.2-33),1,Subnet1,UDMOUTPUT0008.TXT,3
+1,871, 8014,           1-75-CFPREV_BP1-226,                               x4(2-0-75-17-OR-37),1,Subnet1,UDMOUTPUT0008.TXT,4
+1,872, 8014,           1-75-CFPREV_BP1-226,                                y(2-0-75-17-OR-37),1,Subnet1,UDMOUTPUT0008.TXT,5
+1,873, 8014,           1-75-CFPREV_BP1-226,                           x1(2-0-75-17-ADDSUB-20),1,Subnet1,UDMOUTPUT0008.TXT,6
+1,874, 8014,           1-75-CFPREV_BP1-226,                               y(2-0-75-17-MUL-52),1,Subnet1,UDMOUTPUT0008.TXT,7
+1,875, 8014,           1-75-CFPREV_BP1-226,                              y(2-0-75-17-ACOS-55),1,Subnet1,UDMOUTPUT0008.TXT,8
+1,876, 8014,           1-75-CFPREV_BP1-226,                              y(2-0-75-17-×0.3-56),1,Subnet1,UDMOUTPUT0008.TXT,9
+1,877, 8014,           1-75-CFPREV_BP1-226,                              y(2-0-75-17-×0.3-57),1,Subnet1,UDMOUTPUT0008.TXT,10
+1,878, 8014,           1-75-CFPREV_BP1-226,                              y(2-0-75-17-ACOS-59),1,Subnet1,UDMOUTPUT0009.TXT,1
+1,879, 8014,           1-75-CFPREV_BP1-226,                               y(2-0-75-17-MAX-61),1,Subnet1,UDMOUTPUT0009.TXT,2
+1,880, 8014,           1-75-CFPREV_BP1-226,                               y(2-0-75-17-MUL-62),1,Subnet1,UDMOUTPUT0009.TXT,3
+1,881, 8014,           1-75-CFPREV_BP1-226,                               y(2-0-75-17-MUL-63),1,Subnet1,UDMOUTPUT0009.TXT,4
+1,882, 8014,           1-46-CFPREV_BP1-405,                              y(2-0-46-12-×0.3-12),34,Subnet34,UDMOUTPUT0003.TXT,3
+1,883, 8014,           1-46-CFPREV_BP1-405,                               y(2-0-46-12-MUL-15),34,Subnet34,UDMOUTPUT0003.TXT,4
+1,884, 8014,           1-46-CFPREV_BP1-405,                               x1(2-0-46-12-OR-37),34,Subnet34,UDMOUTPUT0003.TXT,5
+1,885, 8014,           1-46-CFPREV_BP1-405,                            y(2-0-46-12-ADDSUB-20),34,Subnet34,UDMOUTPUT0003.TXT,6
+1,886, 8014,           1-46-CFPREV_BP1-405,                           x6(2-0-46-12-ADDSUB-20),34,Subnet34,UDMOUTPUT0003.TXT,7
+1,887, 8014,           1-46-CFPREV_BP1-405,                           x1(2-0-46-12-ADDSUB-31),34,Subnet34,UDMOUTPUT0003.TXT,8
+1,888, 8014,           1-46-CFPREV_BP1-405,                           x6(2-0-46-12-ADDSUB-31),34,Subnet34,UDMOUTPUT0003.TXT,9
+1,889, 8014,           1-46-CFPREV_BP1-405,                            y(2-0-46-12-ADDSUB-31),34,Subnet34,UDMOUTPUT0003.TXT,10
+1,890, 8014,           1-46-CFPREV_BP1-405,                              y(2-0-46-12-×0.2-33),34,Subnet34,UDMOUTPUT0004.TXT,1
+1,891, 8014,           1-46-CFPREV_BP1-405,                               x4(2-0-46-12-OR-37),34,Subnet34,UDMOUTPUT0004.TXT,2
+1,892, 8014,           1-46-CFPREV_BP1-405,                                y(2-0-46-12-OR-37),34,Subnet34,UDMOUTPUT0004.TXT,3
+1,893, 8014,           1-46-CFPREV_BP1-405,                           x1(2-0-46-12-ADDSUB-20),34,Subnet34,UDMOUTPUT0004.TXT,4
+1,894, 8014,           1-46-CFPREV_BP1-405,                               y(2-0-46-12-MUL-52),34,Subnet34,UDMOUTPUT0004.TXT,5
+1,895, 8014,           1-46-CFPREV_BP1-405,                              y(2-0-46-12-ACOS-55),34,Subnet34,UDMOUTPUT0004.TXT,6
+1,896, 8014,           1-46-CFPREV_BP1-405,                              y(2-0-46-12-×0.3-56),34,Subnet34,UDMOUTPUT0004.TXT,7
+1,897, 8014,           1-46-CFPREV_BP1-405,                              y(2-0-46-12-×0.3-57),34,Subnet34,UDMOUTPUT0004.TXT,8
+1,898, 8014,           1-46-CFPREV_BP1-405,                              y(2-0-46-12-ACOS-59),34,Subnet34,UDMOUTPUT0004.TXT,9
+1,899, 8014,           1-46-CFPREV_BP1-405,                               y(2-0-46-12-MAX-61),34,Subnet34,UDMOUTPUT0004.TXT,10
+1,900, 8014,           1-46-CFPREV_BP1-405,                               y(2-0-46-12-MUL-62),34,Subnet34,UDMOUTPUT0005.TXT,1
+1,901, 8014,           1-46-CFPREV_BP1-405,                               y(2-0-46-12-MUL-63),34,Subnet34,UDMOUTPUT0005.TXT,2
+1,902, 8014,        JS-1-75-CFPREV_BP1-227,                           y(JS-2-0-75-18-×0.3-12),7,Subnet7,UDMOUTPUT0003.TXT,3
+1,903, 8014,        JS-1-75-CFPREV_BP1-227,                            y(JS-2-0-75-18-MUL-15),7,Subnet7,UDMOUTPUT0003.TXT,4
+1,904, 8014,        JS-1-75-CFPREV_BP1-227,                            x1(JS-2-0-75-18-OR-37),7,Subnet7,UDMOUTPUT0003.TXT,5
+1,905, 8014,        JS-1-75-CFPREV_BP1-227,                         y(JS-2-0-75-18-ADDSUB-20),7,Subnet7,UDMOUTPUT0003.TXT,6
+1,906, 8014,        JS-1-75-CFPREV_BP1-227,                        x6(JS-2-0-75-18-ADDSUB-20),7,Subnet7,UDMOUTPUT0003.TXT,7
+1,907, 8014,        JS-1-75-CFPREV_BP1-227,                        x1(JS-2-0-75-18-ADDSUB-31),7,Subnet7,UDMOUTPUT0003.TXT,8
+1,908, 8014,        JS-1-75-CFPREV_BP1-227,                        x6(JS-2-0-75-18-ADDSUB-31),7,Subnet7,UDMOUTPUT0003.TXT,9
+1,909, 8014,        JS-1-75-CFPREV_BP1-227,                         y(JS-2-0-75-18-ADDSUB-31),7,Subnet7,UDMOUTPUT0003.TXT,10
+1,910, 8014,        JS-1-75-CFPREV_BP1-227,                           y(JS-2-0-75-18-×0.2-33),7,Subnet7,UDMOUTPUT0004.TXT,1
+1,911, 8014,        JS-1-75-CFPREV_BP1-227,                            x4(JS-2-0-75-18-OR-37),7,Subnet7,UDMOUTPUT0004.TXT,2
+1,912, 8014,        JS-1-75-CFPREV_BP1-227,                             y(JS-2-0-75-18-OR-37),7,Subnet7,UDMOUTPUT0004.TXT,3
+1,913, 8014,        JS-1-75-CFPREV_BP1-227,                        x1(JS-2-0-75-18-ADDSUB-20),7,Subnet7,UDMOUTPUT0004.TXT,4
+1,914, 8014,        JS-1-75-CFPREV_BP1-227,                            y(JS-2-0-75-18-MUL-52),7,Subnet7,UDMOUTPUT0004.TXT,5
+1,915, 8014,        JS-1-75-CFPREV_BP1-227,                           y(JS-2-0-75-18-ACOS-55),7,Subnet7,UDMOUTPUT0004.TXT,6
+1,916, 8014,        JS-1-75-CFPREV_BP1-227,                           y(JS-2-0-75-18-×0.3-56),7,Subnet7,UDMOUTPUT0004.TXT,7
+1,917, 8014,        JS-1-75-CFPREV_BP1-227,                           y(JS-2-0-75-18-×0.3-57),7,Subnet7,UDMOUTPUT0004.TXT,8
+1,918, 8014,        JS-1-75-CFPREV_BP1-227,                           y(JS-2-0-75-18-ACOS-59),7,Subnet7,UDMOUTPUT0004.TXT,9
+1,919, 8014,        JS-1-75-CFPREV_BP1-227,                            y(JS-2-0-75-18-MAX-61),7,Subnet7,UDMOUTPUT0004.TXT,10
+1,920, 8014,        JS-1-75-CFPREV_BP1-227,                            y(JS-2-0-75-18-MUL-62),7,Subnet7,UDMOUTPUT0005.TXT,1
+1,921, 8014,        JS-1-75-CFPREV_BP1-227,                            y(JS-2-0-75-18-MUL-63),7,Subnet7,UDMOUTPUT0005.TXT,2
+1,922, 8014,        LZ-1-46-CFPREV_BP1-404,                         y(LZ-2-0-46-11-×0.3-12_0),32,Subnet32,UDMOUTPUT0003.TXT,3
+1,923, 8014,        LZ-1-46-CFPREV_BP1-404,                          y(LZ-2-0-46-11-MUL-15_0),32,Subnet32,UDMOUTPUT0003.TXT,4
+1,924, 8014,        LZ-1-46-CFPREV_BP1-404,                          x1(LZ-2-0-46-11-OR-37_0),32,Subnet32,UDMOUTPUT0003.TXT,5
+1,925, 8014,        LZ-1-46-CFPREV_BP1-404,                       y(LZ-2-0-46-11-ADDSUB-20_0),32,Subnet32,UDMOUTPUT0003.TXT,6
+1,926, 8014,        LZ-1-46-CFPREV_BP1-404,                      x6(LZ-2-0-46-11-ADDSUB-20_0),32,Subnet32,UDMOUTPUT0003.TXT,7
+1,927, 8014,        LZ-1-46-CFPREV_BP1-404,                      x1(LZ-2-0-46-11-ADDSUB-31_0),32,Subnet32,UDMOUTPUT0003.TXT,8
+1,928, 8014,        LZ-1-46-CFPREV_BP1-404,                      x6(LZ-2-0-46-11-ADDSUB-31_0),32,Subnet32,UDMOUTPUT0003.TXT,9
+1,929, 8014,        LZ-1-46-CFPREV_BP1-404,                       y(LZ-2-0-46-11-ADDSUB-31_0),32,Subnet32,UDMOUTPUT0003.TXT,10
+1,930, 8014,        LZ-1-46-CFPREV_BP1-404,                         y(LZ-2-0-46-11-×0.2-33_0),32,Subnet32,UDMOUTPUT0004.TXT,1
+1,931, 8014,        LZ-1-46-CFPREV_BP1-404,                          x4(LZ-2-0-46-11-OR-37_0),32,Subnet32,UDMOUTPUT0004.TXT,2
+1,932, 8014,        LZ-1-46-CFPREV_BP1-404,                           y(LZ-2-0-46-11-OR-37_0),32,Subnet32,UDMOUTPUT0004.TXT,3
+1,933, 8014,        LZ-1-46-CFPREV_BP1-404,                      x1(LZ-2-0-46-11-ADDSUB-20_0),32,Subnet32,UDMOUTPUT0004.TXT,4
+1,934, 8014,        LZ-1-46-CFPREV_BP1-404,                          y(LZ-2-0-46-11-MUL-52_0),32,Subnet32,UDMOUTPUT0004.TXT,5
+1,935, 8014,        LZ-1-46-CFPREV_BP1-404,                         y(LZ-2-0-46-11-ACOS-55_0),32,Subnet32,UDMOUTPUT0004.TXT,6
+1,936, 8014,        LZ-1-46-CFPREV_BP1-404,                         y(LZ-2-0-46-11-×0.3-56_0),32,Subnet32,UDMOUTPUT0004.TXT,7
+1,937, 8014,        LZ-1-46-CFPREV_BP1-404,                         y(LZ-2-0-46-11-×0.3-57_0),32,Subnet32,UDMOUTPUT0004.TXT,8
+1,938, 8014,        LZ-1-46-CFPREV_BP1-404,                         y(LZ-2-0-46-11-ACOS-59_0),32,Subnet32,UDMOUTPUT0004.TXT,9
+1,939, 8014,        LZ-1-46-CFPREV_BP1-404,                          y(LZ-2-0-46-11-MAX-61_0),32,Subnet32,UDMOUTPUT0004.TXT,10
+1,940, 8014,        LZ-1-46-CFPREV_BP1-404,                          y(LZ-2-0-46-11-MUL-62_0),32,Subnet32,UDMOUTPUT0005.TXT,1
+1,941, 8014,        LZ-1-46-CFPREV_BP1-404,                          y(LZ-2-0-46-11-MUL-63_0),32,Subnet32,UDMOUTPUT0005.TXT,2
+1,942, 8014,        GN-1-51-CFPREV_BP1-339,                            y(GN-2-0-51-9-×0.3-12),6,Subnet6,UDMOUTPUT0003.TXT,3
+1,943, 8014,        GN-1-51-CFPREV_BP1-339,                             y(GN-2-0-51-9-MUL-15),6,Subnet6,UDMOUTPUT0003.TXT,4
+1,944, 8014,        GN-1-51-CFPREV_BP1-339,                             x1(GN-2-0-51-9-OR-37),6,Subnet6,UDMOUTPUT0003.TXT,5
+1,945, 8014,        GN-1-51-CFPREV_BP1-339,                          y(GN-2-0-51-9-ADDSUB-20),6,Subnet6,UDMOUTPUT0003.TXT,6
+1,946, 8014,        GN-1-51-CFPREV_BP1-339,                         x6(GN-2-0-51-9-ADDSUB-20),6,Subnet6,UDMOUTPUT0003.TXT,7
+1,947, 8014,        GN-1-51-CFPREV_BP1-339,                         x1(GN-2-0-51-9-ADDSUB-31),6,Subnet6,UDMOUTPUT0003.TXT,8
+1,948, 8014,        GN-1-51-CFPREV_BP1-339,                         x6(GN-2-0-51-9-ADDSUB-31),6,Subnet6,UDMOUTPUT0003.TXT,9
+1,949, 8014,        GN-1-51-CFPREV_BP1-339,                          y(GN-2-0-51-9-ADDSUB-31),6,Subnet6,UDMOUTPUT0003.TXT,10
+1,950, 8014,        GN-1-51-CFPREV_BP1-339,                            y(GN-2-0-51-9-×0.2-33),6,Subnet6,UDMOUTPUT0004.TXT,1
+1,951, 8014,        GN-1-51-CFPREV_BP1-339,                             x4(GN-2-0-51-9-OR-37),6,Subnet6,UDMOUTPUT0004.TXT,2
+1,952, 8014,        GN-1-51-CFPREV_BP1-339,                              y(GN-2-0-51-9-OR-37),6,Subnet6,UDMOUTPUT0004.TXT,3
+1,953, 8014,        GN-1-51-CFPREV_BP1-339,                         x1(GN-2-0-51-9-ADDSUB-20),6,Subnet6,UDMOUTPUT0004.TXT,4
+1,954, 8014,        GN-1-51-CFPREV_BP1-339,                             y(GN-2-0-51-9-MUL-52),6,Subnet6,UDMOUTPUT0004.TXT,5
+1,955, 8014,        GN-1-51-CFPREV_BP1-339,                            y(GN-2-0-51-9-ACOS-55),6,Subnet6,UDMOUTPUT0004.TXT,6
+1,956, 8014,        GN-1-51-CFPREV_BP1-339,                            y(GN-2-0-51-9-×0.3-56),6,Subnet6,UDMOUTPUT0004.TXT,7
+1,957, 8014,        GN-1-51-CFPREV_BP1-339,                            y(GN-2-0-51-9-×0.3-57),6,Subnet6,UDMOUTPUT0004.TXT,8
+1,958, 8014,        GN-1-51-CFPREV_BP1-339,                            y(GN-2-0-51-9-ACOS-59),6,Subnet6,UDMOUTPUT0004.TXT,9
+1,959, 8014,        GN-1-51-CFPREV_BP1-339,                             y(GN-2-0-51-9-MAX-61),6,Subnet6,UDMOUTPUT0004.TXT,10
+1,960, 8014,        GN-1-51-CFPREV_BP1-339,                             y(GN-2-0-51-9-MUL-62),6,Subnet6,UDMOUTPUT0005.TXT,1
+1,961, 8014,        GN-1-51-CFPREV_BP1-339,                             y(GN-2-0-51-9-MUL-63),6,Subnet6,UDMOUTPUT0005.TXT,2
+1,962, 8014,         1-1-46-CFPREV_BP1-402,                            y(1-2-0-46-11-×0.3-12),5,Subnet5,UDMOUTPUT0003.TXT,3
+1,963, 8014,         1-1-46-CFPREV_BP1-402,                             y(1-2-0-46-11-MUL-15),5,Subnet5,UDMOUTPUT0003.TXT,4
+1,964, 8014,         1-1-46-CFPREV_BP1-402,                             x1(1-2-0-46-11-OR-37),5,Subnet5,UDMOUTPUT0003.TXT,5
+1,965, 8014,         1-1-46-CFPREV_BP1-402,                          y(1-2-0-46-11-ADDSUB-20),5,Subnet5,UDMOUTPUT0003.TXT,6
+1,966, 8014,         1-1-46-CFPREV_BP1-402,                         x6(1-2-0-46-11-ADDSUB-20),5,Subnet5,UDMOUTPUT0003.TXT,7
+1,967, 8014,         1-1-46-CFPREV_BP1-402,                         x1(1-2-0-46-11-ADDSUB-31),5,Subnet5,UDMOUTPUT0003.TXT,8
+1,968, 8014,         1-1-46-CFPREV_BP1-402,                         x6(1-2-0-46-11-ADDSUB-31),5,Subnet5,UDMOUTPUT0003.TXT,9
+1,969, 8014,         1-1-46-CFPREV_BP1-402,                          y(1-2-0-46-11-ADDSUB-31),5,Subnet5,UDMOUTPUT0003.TXT,10
+1,970, 8014,         1-1-46-CFPREV_BP1-402,                            y(1-2-0-46-11-×0.2-33),5,Subnet5,UDMOUTPUT0004.TXT,1
+1,971, 8014,         1-1-46-CFPREV_BP1-402,                             x4(1-2-0-46-11-OR-37),5,Subnet5,UDMOUTPUT0004.TXT,2
+1,972, 8014,         1-1-46-CFPREV_BP1-402,                              y(1-2-0-46-11-OR-37),5,Subnet5,UDMOUTPUT0004.TXT,3
+1,973, 8014,         1-1-46-CFPREV_BP1-402,                         x1(1-2-0-46-11-ADDSUB-20),5,Subnet5,UDMOUTPUT0004.TXT,4
+1,974, 8014,         1-1-46-CFPREV_BP1-402,                             y(1-2-0-46-11-MUL-52),5,Subnet5,UDMOUTPUT0004.TXT,5
+1,975, 8014,         1-1-46-CFPREV_BP1-402,                            y(1-2-0-46-11-ACOS-55),5,Subnet5,UDMOUTPUT0004.TXT,6
+1,976, 8014,         1-1-46-CFPREV_BP1-402,                            y(1-2-0-46-11-×0.3-56),5,Subnet5,UDMOUTPUT0004.TXT,7
+1,977, 8014,         1-1-46-CFPREV_BP1-402,                            y(1-2-0-46-11-×0.3-57),5,Subnet5,UDMOUTPUT0004.TXT,8
+1,978, 8014,         1-1-46-CFPREV_BP1-402,                            y(1-2-0-46-11-ACOS-59),5,Subnet5,UDMOUTPUT0004.TXT,9
+1,979, 8014,         1-1-46-CFPREV_BP1-402,                             y(1-2-0-46-11-MAX-61),5,Subnet5,UDMOUTPUT0004.TXT,10
+1,980, 8014,         1-1-46-CFPREV_BP1-402,                             y(1-2-0-46-11-MUL-62),5,Subnet5,UDMOUTPUT0005.TXT,1
+1,981, 8014,         1-1-46-CFPREV_BP1-402,                             y(1-2-0-46-11-MUL-63),5,Subnet5,UDMOUTPUT0005.TXT,2
+1,982, 8014, JinHuai_1-75-CFPREV_BP1-228_0,                    y(JinHuai_2-0-75-19-×0.3-12_0),2,Subnet2,UDMOUTPUT0003.TXT,2
+1,983, 8014, JinHuai_1-75-CFPREV_BP1-228_0,                     y(JinHuai_2-0-75-19-MUL-15_0),2,Subnet2,UDMOUTPUT0003.TXT,3
+1,984, 8014, JinHuai_1-75-CFPREV_BP1-228_0,                     x1(JinHuai_2-0-75-19-OR-37_0),2,Subnet2,UDMOUTPUT0003.TXT,4
+1,985, 8014, JinHuai_1-75-CFPREV_BP1-228_0,                  y(JinHuai_2-0-75-19-ADDSUB-20_0),2,Subnet2,UDMOUTPUT0003.TXT,5
+1,986, 8014, JinHuai_1-75-CFPREV_BP1-228_0,                 x6(JinHuai_2-0-75-19-ADDSUB-20_0),2,Subnet2,UDMOUTPUT0003.TXT,6
+1,987, 8014, JinHuai_1-75-CFPREV_BP1-228_0,                 x1(JinHuai_2-0-75-19-ADDSUB-31_0),2,Subnet2,UDMOUTPUT0003.TXT,7
+1,988, 8014, JinHuai_1-75-CFPREV_BP1-228_0,                 x6(JinHuai_2-0-75-19-ADDSUB-31_0),2,Subnet2,UDMOUTPUT0003.TXT,8
+1,989, 8014, JinHuai_1-75-CFPREV_BP1-228_0,                  y(JinHuai_2-0-75-19-ADDSUB-31_0),2,Subnet2,UDMOUTPUT0003.TXT,9
+1,990, 8014, JinHuai_1-75-CFPREV_BP1-228_0,                    y(JinHuai_2-0-75-19-×0.2-33_0),2,Subnet2,UDMOUTPUT0003.TXT,10
+1,991, 8014, JinHuai_1-75-CFPREV_BP1-228_0,                     x4(JinHuai_2-0-75-19-OR-37_0),2,Subnet2,UDMOUTPUT0004.TXT,1
+1,992, 8014, JinHuai_1-75-CFPREV_BP1-228_0,                      y(JinHuai_2-0-75-19-OR-37_0),2,Subnet2,UDMOUTPUT0004.TXT,2
+1,993, 8014, JinHuai_1-75-CFPREV_BP1-228_0,                 x1(JinHuai_2-0-75-19-ADDSUB-20_0),2,Subnet2,UDMOUTPUT0004.TXT,3
+1,994, 8014, JinHuai_1-75-CFPREV_BP1-228_0,                     y(JinHuai_2-0-75-19-MUL-52_0),2,Subnet2,UDMOUTPUT0004.TXT,4
+1,995, 8014, JinHuai_1-75-CFPREV_BP1-228_0,                    y(JinHuai_2-0-75-19-ACOS-55_0),2,Subnet2,UDMOUTPUT0004.TXT,5
+1,996, 8014, JinHuai_1-75-CFPREV_BP1-228_0,                    y(JinHuai_2-0-75-19-×0.3-56_0),2,Subnet2,UDMOUTPUT0004.TXT,6
+1,997, 8014, JinHuai_1-75-CFPREV_BP1-228_0,                    y(JinHuai_2-0-75-19-×0.3-57_0),2,Subnet2,UDMOUTPUT0004.TXT,7
+1,998, 8014, JinHuai_1-75-CFPREV_BP1-228_0,                    y(JinHuai_2-0-75-19-ACOS-59_0),2,Subnet2,UDMOUTPUT0004.TXT,8
+1,999, 8014, JinHuai_1-75-CFPREV_BP1-228_0,                     y(JinHuai_2-0-75-19-MAX-61_0),2,Subnet2,UDMOUTPUT0004.TXT,9
+1,1000, 8014, JinHuai_1-75-CFPREV_BP1-228_0,                     y(JinHuai_2-0-75-19-MUL-62_0),2,Subnet2,UDMOUTPUT0004.TXT,10
+1,1001, 8014, JinHuai_1-75-CFPREV_BP1-228_0,                     y(JinHuai_2-0-75-19-MUL-63_0),2,Subnet2,UDMOUTPUT0005.TXT,1
+1,1002, 8000,     XZ逆变侧交流母线ABC三相正序电压幅值-2611,                          A相正序电压幅值(1-0-0-81-DIV-3),1,Subnet1,UDMOUTPUT0009.TXT,5
+1,1003, 8000,     XZ逆变侧交流母线ABC三相正序电压幅值-2611,                         B相正序电压幅值(1-0-0-81-DIV-16),1,Subnet1,UDMOUTPUT0009.TXT,6
+1,1004, 8000,     XZ逆变侧交流母线ABC三相正序电压幅值-2611,                         C相正序电压幅值(1-0-0-81-DIV-24),1,Subnet1,UDMOUTPUT0009.TXT,7
+1,1005, 8000,     FF逆变侧交流母线ABC三相正序电压幅值-2586,                        A相正序电压幅值(1-0-0-83-DIV-300),1,Subnet1,UDMOUTPUT0009.TXT,8
+1,1006, 8000,     FF逆变侧交流母线ABC三相正序电压幅值-2586,                         B相正序电压幅值(1-0-0-83-DIV-16),1,Subnet1,UDMOUTPUT0009.TXT,9
+1,1007, 8000,     FF逆变侧交流母线ABC三相正序电压幅值-2586,                       C相正序电压幅值(1-0-0-83-DIV-2400),1,Subnet1,UDMOUTPUT0009.TXT,10
+1,1008, 8000,     YH逆变侧交流母线ABC三相正序电压幅值-2482,                        A相正序电压幅值(1-0-0-80-DIV-300),34,Subnet34,UDMOUTPUT0005.TXT,3
+1,1009, 8000,     YH逆变侧交流母线ABC三相正序电压幅值-2482,                       B相正序电压幅值(1-0-0-80-DIV-1600),34,Subnet34,UDMOUTPUT0005.TXT,4
+1,1010, 8000,     YH逆变侧交流母线ABC三相正序电压幅值-2482,                       C相正序电压幅值(1-0-0-80-DIV-2400),34,Subnet34,UDMOUTPUT0005.TXT,5
+1,1011, 8000,     JS逆变侧交流母线ABC三相正序电压幅值-2599,                       A相正序电压幅值(1-32-0-0-81-DIV-3),7,Subnet7,UDMOUTPUT0005.TXT,3
+1,1012, 8000,     JS逆变侧交流母线ABC三相正序电压幅值-2599,                      B相正序电压幅值(1-32-0-0-81-DIV-16),7,Subnet7,UDMOUTPUT0005.TXT,4
+1,1013, 8000,     JS逆变侧交流母线ABC三相正序电压幅值-2599,                      C相正序电压幅值(1-32-0-0-81-DIV-24),7,Subnet7,UDMOUTPUT0005.TXT,5
+1,1014, 8000,LongZheng逆变侧交流母线ABC三相正序电压幅值-2498,                       A相正序电压幅值(1-33-0-0-80-DIV-3),32,Subnet32,UDMOUTPUT0005.TXT,3
+1,1015, 8000,LongZheng逆变侧交流母线ABC三相正序电压幅值-2498,                      B相正序电压幅值(1-33-0-0-80-DIV-16),32,Subnet32,UDMOUTPUT0005.TXT,4
+1,1016, 8000,LongZheng逆变侧交流母线ABC三相正序电压幅值-2498,                      C相正序电压幅值(1-33-0-0-80-DIV-24),32,Subnet32,UDMOUTPUT0005.TXT,5
+1,1017, 8000,     Gn逆变侧交流母线ABC三相正序电压幅值-2556,                       A相正序电压幅值(1-34-0-0-80-DIV-3),6,Subnet6,UDMOUTPUT0005.TXT,3
+1,1018, 8000,     Gn逆变侧交流母线ABC三相正序电压幅值-2556,                      B相正序电压幅值(1-34-0-0-80-DIV-16),6,Subnet6,UDMOUTPUT0005.TXT,4
+1,1019, 8000,     Gn逆变侧交流母线ABC三相正序电压幅值-2556,                      C相正序电压幅值(1-34-0-0-80-DIV-24),6,Subnet6,UDMOUTPUT0005.TXT,5
+1,1020, 8000,1-LinFeng逆变侧交流母线ABC三相正序电压幅值-2482,                        A相正序电压幅值(1-1-0-0-80-DIV-3),5,Subnet5,UDMOUTPUT0005.TXT,3
+1,1021, 8000,1-LinFeng逆变侧交流母线ABC三相正序电压幅值-2482,                       B相正序电压幅值(1-1-0-0-80-DIV-16),5,Subnet5,UDMOUTPUT0005.TXT,4
+1,1022, 8000,1-LinFeng逆变侧交流母线ABC三相正序电压幅值-2482,                       C相正序电压幅值(1-1-0-0-80-DIV-24),5,Subnet5,UDMOUTPUT0005.TXT,5
+1,1023, 8000,                  XZ直流电流电压功率测量,IdavA1(kA)(1-0-0-81-BinJin-UHVDC_BP1_2-29-1-AVGN-1),1,Subnet1,UDMOUTPUT0010.TXT,1
+1,1024, 8000,                  XZ直流电流电压功率测量, IdA1(kA)(1-0-0-81-BinJin-UHVDC_BP1_2-29-1-GAIN-2),1,Subnet1,UDMOUTPUT0010.TXT,2
+1,1025, 8000,                  XZ直流电流电压功率测量,IdHA1(kA)(1-0-0-81-BinJin-UHVDC_BP1_2-29-1-直流线标幺转千安增益-6),1,Subnet1,UDMOUTPUT0010.TXT,3
+1,1026, 8000,                  XZ直流电流电压功率测量,    UdB1(1-0-0-81-BinJin-UHVDC_BP1_2-31-3-IIR2-14),1,Subnet1,UDMOUTPUT0010.TXT,4
+1,1027, 8000,                  XZ直流电流电压功率测量,UdavB1(p.u.)(1-0-0-81-BinJin-UHVDC_BP1_2-31-3-Udavg 1240-15),1,Subnet1,UDMOUTPUT0010.TXT,5
+1,1028, 8000,                  XZ直流电流电压功率测量,UdcBp1(P.U.)(1-0-0-81-BinJin-UHVDC_BP1_2-31-3-GAIN-16),1,Subnet1,UDMOUTPUT0010.TXT,6
+1,1029, 8000,                  XZ直流电流电压功率测量,UdavB1(kv)(1-0-0-81-BinJin-UHVDC_BP1_2-31-3-GAIN-17),1,Subnet1,UDMOUTPUT0010.TXT,7
+1,1030, 8000,                  XZ直流电流电压功率测量,                       UdHA1(kV)(1-0-0-81-GAIN-25),1,Subnet1,UDMOUTPUT0010.TXT,8
+1,1031, 8000,                  XZ直流电流电压功率测量,                              Pdc(1-0-0-81-MUL-27),1,Subnet1,UDMOUTPUT0010.TXT,9
+1,1032, 8000,                  XZ直流电流电压功率测量,                           Pdcav(1-0-0-81-MUL-344),1,Subnet1,UDMOUTPUT0010.TXT,10
+1,1033, 8000,             FF直流电流电压功率测量-2587,                     IdavA1(kA)(1-0-0-84-AVGN-100),1,Subnet1,UDMOUTPUT0011.TXT,1
+1,1034, 8000,             FF直流电流电压功率测量-2587,                       IdA1(kA)(1-0-0-84-GAIN-200),1,Subnet1,UDMOUTPUT0011.TXT,2
+1,1035, 8000,             FF直流电流电压功率测量-2587,                IdHA1(kA)(1-0-0-84-直流线标幺转千安增益-400),1,Subnet1,UDMOUTPUT0011.TXT,3
+1,1036, 8000,             FF直流电流电压功率测量-2587,                           UdB1(1-0-0-84-IIR2-900),1,Subnet1,UDMOUTPUT0011.TXT,4
+1,1037, 8000,             FF直流电流电压功率测量-2587,            UdavB1(p.u.)(1-0-0-84-Udavg 1240-1000),1,Subnet1,UDMOUTPUT0011.TXT,5
+1,1038, 8000,             FF直流电流电压功率测量-2587,                  UdcBp1(P.U.)(1-0-0-84-GAIN-1100),1,Subnet1,UDMOUTPUT0011.TXT,6
+1,1039, 8000,             FF直流电流电压功率测量-2587,                    UdavB1(kv)(1-0-0-84-GAIN-1200),1,Subnet1,UDMOUTPUT0011.TXT,7
+1,1040, 8000,             FF直流电流电压功率测量-2587,                     UdHA1(kV)(1-0-0-84-GAIN-1300),1,Subnet1,UDMOUTPUT0011.TXT,8
+1,1041, 8000,             FF直流电流电压功率测量-2587,                            Pdc(1-0-0-84-MUL-1400),1,Subnet1,UDMOUTPUT0011.TXT,9
+1,1042, 8000,             FF直流电流电压功率测量-2587,                           Pdcav(1-0-0-84-MUL-313),1,Subnet1,UDMOUTPUT0011.TXT,10
+1,1043, 8000,             JS直流电流电压功率测量-2600,                    IdavA1(kA)(1-32-0-0-82-AVGN-1),7,Subnet7,UDMOUTPUT0005.TXT,6
+1,1044, 8000,             JS直流电流电压功率测量-2600,                      IdA1(kA)(1-32-0-0-82-GAIN-2),7,Subnet7,UDMOUTPUT0005.TXT,7
+1,1045, 8000,             JS直流电流电压功率测量-2600,               IdHA1(kA)(1-32-0-0-82-直流线标幺转千安增益-4),7,Subnet7,UDMOUTPUT0005.TXT,8
+1,1046, 8000,             JS直流电流电压功率测量-2600,                          UdB1(1-32-0-0-82-IIR2-9),7,Subnet7,UDMOUTPUT0005.TXT,9
+1,1047, 8000,             JS直流电流电压功率测量-2600,           UdavB1(p.u.)(1-32-0-0-82-Udavg 1240-10),7,Subnet7,UDMOUTPUT0005.TXT,10
+1,1048, 8000,             JS直流电流电压功率测量-2600,                 UdcBp1(P.U.)(1-32-0-0-82-GAIN-11),7,Subnet7,UDMOUTPUT0006.TXT,1
+1,1049, 8000,             JS直流电流电压功率测量-2600,                   UdavB1(kv)(1-32-0-0-82-GAIN-12),7,Subnet7,UDMOUTPUT0006.TXT,2
+1,1050, 8000,             JS直流电流电压功率测量-2600,                    UdHA1(kV)(1-32-0-0-82-GAIN-13),7,Subnet7,UDMOUTPUT0006.TXT,3
+1,1051, 8000,             JS直流电流电压功率测量-2600,                           Pdc(1-32-0-0-82-MUL-14),7,Subnet7,UDMOUTPUT0006.TXT,4
+1,1052, 8000,             JS直流电流电压功率测量-2600,                         Pdcav(1-32-0-0-82-MUL-17),7,Subnet7,UDMOUTPUT0006.TXT,5
+1,1053, 8000,           1-LF直流电流电压功率测量-2483,                     IdavA1(kA)(1-1-0-0-81-AVGN-1),5,Subnet5,UDMOUTPUT0005.TXT,6
+1,1054, 8000,           1-LF直流电流电压功率测量-2483,                       IdA1(kA)(1-1-0-0-81-GAIN-2),5,Subnet5,UDMOUTPUT0005.TXT,7
+1,1055, 8000,           1-LF直流电流电压功率测量-2483,                IdHA1(kA)(1-1-0-0-81-直流线标幺转千安增益-4),5,Subnet5,UDMOUTPUT0005.TXT,8
+1,1056, 8000,           1-LF直流电流电压功率测量-2483,                           UdB1(1-1-0-0-81-IIR2-9),5,Subnet5,UDMOUTPUT0005.TXT,9
+1,1057, 8000,           1-LF直流电流电压功率测量-2483,            UdavB1(p.u.)(1-1-0-0-81-Udavg 1240-10),5,Subnet5,UDMOUTPUT0005.TXT,10
+1,1058, 8000,           1-LF直流电流电压功率测量-2483,                  UdcBp1(P.U.)(1-1-0-0-81-GAIN-11),5,Subnet5,UDMOUTPUT0006.TXT,1
+1,1059, 8000,           1-LF直流电流电压功率测量-2483,                    UdavB1(kv)(1-1-0-0-81-GAIN-12),5,Subnet5,UDMOUTPUT0006.TXT,2
+1,1060, 8000,           1-LF直流电流电压功率测量-2483,                            Pdc(1-1-0-0-81-MUL-14),5,Subnet5,UDMOUTPUT0006.TXT,3
+1,1061, 8000,           1-LF直流电流电压功率测量-2483,                         Pdcav(1-1-0-0-81-MUL-312),5,Subnet5,UDMOUTPUT0006.TXT,4
