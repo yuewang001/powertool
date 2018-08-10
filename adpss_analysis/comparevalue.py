@@ -1,10 +1,11 @@
 import os
 import commands
 import time
+from test.test_datetime import Oddballs
 
 file1='C:\\Users\\yuewang\\Desktop\\version2\\Ser_result.txt'
 file2='C:\\Users\\yuewang\Desktop\\version2\\Par_result.txt'
-resultfile='C:\\Users\\yuewang\\Desktop\\version2\\result5.txt'
+resultfile='C:\\Users\\yuewang\\Desktop\\version2\\result4.txt'
 
 
 time_slice_on=1
@@ -125,6 +126,9 @@ cc=0
 if(muxian==0 or muxian==1):
     max_row=[]
     max_row.append("-----")
+    odd=1
+    max_odd=-1
+    max_even=-1
     for i in range(1,col_num):
         #print "i="+str(i)+"\n"
         #max_row=[]
@@ -134,10 +138,30 @@ if(muxian==0 or muxian==1):
             if(xx>max_tmp):
                 max_tmp=xx
         max_row.append(round(max_tmp,6))
+        if(odd==0):
+            #print "odd="+str(odd)
+            if(max_tmp>max_even):
+                max_even=max_tmp
+                #print "max_even="+str(max_even)
+                #print "max_tmp="+str(max_tmp)
+            odd=1
+            
+        else:
+            #print "odd="+str(odd)
+            if(max_tmp>max_odd):
+                max_odd=max_tmp
+                #print "max_odd="+str(max_odd)
+                #print "max_tmp="+str(max_tmp)
+            odd=0
+        
+        
 
     data.append(max_row)
     print "len of max value:"+str(len(max_row))
-            
+    
+    print "max value of odd: "+str(max_odd)+"\n"
+    print "max value of even: "+str(max_even)+"\n"
+
                
 writefile(resultfile,data)
 print "----------Done  ----\n"
