@@ -12,6 +12,8 @@ time_slice_on=1
 time_slice_begin=49.100000
 time_slice_end=50.200000
 
+print_all_data=0
+
 bool_time=0
 time_slice=[]
 
@@ -49,10 +51,11 @@ try:
 
                 if(time_slice_on == 1):
                     time_value=float(line.split()[0])
-                    print time_value
+                    
                     if(time_value>time_slice_end):
                         break
                     if(time_value>time_slice_begin):
+                        print time_value
                         for x in line.split():
                             tmp.append(x)
                         x1.append(tmp) 
@@ -79,6 +82,7 @@ try:
                     if(time_value>time_slice_end):
                         break
                     if(time_value>time_slice_begin):
+                        print time_value
                         for x in line.split():
                             tmp.append(x)
                         x2.append(tmp)
@@ -101,6 +105,7 @@ print "len of x2:"+str(len(x2))+"\n"
         
 lg=len(x1)
 data=[]
+result_data=[]
 maxdata=[]
 for i in range(len(x1)):
     #print i
@@ -161,11 +166,21 @@ if(muxian==0 or muxian==1):
         
 
     data.append(max_row)
+    result_data.append(max_row)
+    re1="max value of odd: "+str(max_odd)
+    re2="max value of even: "+str(max_even)
+    result_data.append(re1.strip())
+    result_data.append(re2.strip())
+    data.append(re1.strip())
+    data.append(re2.strip())
     print "len of max value:"+str(len(max_row))
     
     print "max value of odd: "+str(max_odd)+"\n"
     print "max value of even: "+str(max_even)+"\n"
 
                
-writefile(resultfile,data)
+if(print_all_data==1):
+    writefile(resultfile,data)
+else:
+    writefile(resultfile,result_data)
 print "----------Done  ----\n"
