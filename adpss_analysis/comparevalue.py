@@ -50,15 +50,15 @@ try:
                 if(time_slice_on == 1):
                     time_value=float(line.split()[0])
                     print time_value
-                    if(time_value<time_slice_begin):
-                        contine
+                    if(time_value>time_slice_end):
+                        break
                     if(time_value>time_slice_begin):
                         for x in line.split():
                             tmp.append(x)
                         x1.append(tmp) 
                         continue
-                    if(time_value>time_slice_end):
-                        break
+                    if(time_value>time_slice_begin):
+                        continue
                 else:
                     for x in line.split():
                         tmp.append(x)
@@ -76,15 +76,15 @@ try:
                 #print time_value
                 if(time_slice_on == 1):
                     time_value=float(line.split()[0])
-                    if(time_value<time_slice_begin):
-                        continue
+                    if(time_value>time_slice_end):
+                        break
                     if(time_value>time_slice_begin):
                         for x in line.split():
                             tmp.append(x)
                         x2.append(tmp)
                         continue
-                    if(time_value>time_slice_end):
-                        break
+                    if(time_value<time_slice_begin):
+                        contine
                 else:
                     #print " file 2 open, no time slice on\n"
                     for x in line.split():
