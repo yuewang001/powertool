@@ -1,0 +1,7 @@
+keyfile=D:\\Data\\201806XinanHuadongSerParComp\\XiNanBUS\\Name.txt    
+valueFile=D:\\Data\\201806XinanHuadongSerParComp\\XiNanBUS\\SimpleVariablesPar.txt   
+prefix=D:\\Data\\201806XinanHuadongSerParComp\\XiNanBUS\\WholeSubNet\\
+result_file=D:\\Data\\201806XinanHuadongSerParComp\\XiNanBUS\\Par_result.txt
+time_slice_on=0
+time_slice_begin=50.000000
+time_slice_end=60.000000

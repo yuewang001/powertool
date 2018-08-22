@@ -2,25 +2,33 @@ import os
 import commands
 import time
 
+from utils import parseFile 
+from utils import queryValue
+import sys
+
+#print len(sys.argv)
+if(len(sys.argv)==1):
+    configfile='C:\\Users\\yuewang\\Desktop\\extract_config.txt'
+else:
+    configfile=sys.argv[1]
+
+print "config file:"+configfile
+
+config_key_value=parseFile(configfile)
+keyfile=queryValue('keyfile',config_key_value)
+valueFile=queryValue('valueFile',config_key_value)
+resultfile=queryValue('resultfile',config_key_value)
+time_slice_on=int(queryValue('time_slice_on',config_key_value))
+time_slice_begin=float(queryValue('time_slice_begin',config_key_value))
+time_slice_end=float(queryValue('time_slice_end',config_key_value))
+prefix=queryValue('prefix',config_key_value)
+
+print "keyfile: "+keyfile
+print "file2:"+file2
+print "resultfile:"+resultfile
 
 debug=0
-Linux=0
-if(Linux==0):   #windows 
-	keyfile='D:\\Data\\201806XinanHuadongSerParComp\\XiNanBUS\\Name.txt'    #key file 
-	valueFile='D:\\Data\\201806XinanHuadongSerParComp\\XiNanBUS\\SimpleVariablesPar.txt'    #SimpleVariables.txt file
-	#valueFile1='......\\SimpleVariablesPar.txt'  
-	#valueFile2='......\\SimpleVariablesSer.txt'  
-	prefix='D:\\Data\\201806XinanHuadongSerParComp\\XiNanBUS\\WholeSubNet\\'     #simulation result file
-	result_file='D:\\Data\\201806XinanHuadongSerParComp\\XiNanBUS\\Par_result.txt'    
-else:
-	keyfile='/jenkins/mywork/Name.txt'
-	valueFile='/jenkins/mywork/file2.txt'
-	prefix='/jenkins/result/res/'
-	result_file='/jenkins/seq_result2.txt'
-	
-time_slice_on=1
-time_slice_begin=50.000000
-time_slice_end=60.000000
+
 
 bool_time=0
 time_slice=[]

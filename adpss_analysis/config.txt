@@ -1,0 +1,8 @@
+file1=C:\\Users\\yuewang\\Desktop\\Ser_result.txt
+file2=C:\\Users\\yuewang\Desktop\\Par_result.txt
+resultfile=C:\\Users\\yuewang\\Desktop\\result5.txt
+time_slice_on=1
+time_slice_begin=49.100000
+time_slice_end=50.200000
+print_all_data=1
+muxian=1
